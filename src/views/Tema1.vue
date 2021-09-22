@@ -58,7 +58,7 @@
     #t_1_1.titulo-segundo(data-aos="fade-right")
       h2 1.1  ¿Está a la moda?
 
-    p(data-aos="fade-down") Corresponde a las acciones de intervención breve programada que deben ofrecer las EPS a través de su red de Instituciones Prestadoras de Servicios de Salud, tal como lo establece la Ley 1335 de 2009; aquí se hace énfasis en los pasos 4 y 5 de la estrategia de las 5Aes, no obstante, es necesario aplicar todos los pasos de la estrategia, además realizar las consultas específicas programadas. El período de seguimiento mínimo debe ser de al menos 6 meses (Ministerio de Salud y Protección Social de Colombia, 2020). 
+    p(data-aos="fade-down") Es una pregunta que a diario se debería hacer toda persona que quiere formarse para trabajar en el mundo de la moda y entender su significado. Cuando los coetáneos o la industria estiman que los diseños están acordes con el espíritu del momento, significa que el proceso de diseño tiene grandes posibilidades de ser exitoso en el mercado.
 
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
       .col-lg-6.px-0
@@ -74,19 +74,19 @@
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
               .list__txt 
-                  span Comprender las técnicas de construcción de prendas.
+                  span Una conciencia del propio gusto y estilo.
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
               .list__txt 
-                  span Saber desarrollar una colección.
+                  span Conocerse a sí mismo.
             .list.mt-3
               .list__item
                   .list__item__icon
                       img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
               .list__txt 
-                  span Saber y entender para quien diseñan.
+                  span Mantenerse fiel a la propia visión del modo en que se quiere vestir a alguien.
           .col-lg-11   
               h4.mt-5.text-center(data-aos="fade-down") “Siempre habrá a quien le guste y a quien no le guste”
               p A través de la lectura del siguiente documento podrá reflexionar en torno a la pregunta ¿estás a la moda?
@@ -103,9 +103,9 @@
     #t_1_2.titulo-segundo(data-aos="fade-right")
       h2 1.2  Conocer de moda 
     p(data-aos="fade-down") 
-      span(style='color:#00223D') intervienen en el proceso de desarrollo de una colección adquieran la habilidad para construir a partir de varias fuentes; 
-      span(style='color:#BF3976') Es fundamental que las personas que lo principal es vivenciar lo que está pasando, leer el entorno, el tiempo, el espacio, la necesidad, el usuario, esto es lo que se llama “conocer de moda”. 
-      span(style='color:#00223D') Reconocer el trabajo de otros es determinante para no estar reproduciendo ingenuamente lo que ya existe.
+      span(style='color:#00223D') Es fundamental que las personas que intervienen en el proceso de desarrollo de una colección adquieran la habilidad para construir a partir de varias fuentes; 
+      span(style='color:#BF3976') lo principal es vivenciar lo que está pasando, leer el entorno, el tiempo, el espacio, la necesidad, el usuario, esto es lo que se llama “conocer de moda”.  
+      span(style='color:#00223D') Reconocer el trabajo de otros es determinante para no estar reproduciendo ingenuamente lo que ya existe.  
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.bg-img-1.p-5.mt-5 
@@ -398,9 +398,9 @@
 
     .bloque-texto-c.color-secundario.p-4.mt-5(data-aos="fade-right")
       i.fas.fa-quote-right
-      h5.mb-2 La moda es algo muy importante. Potencia la vida y, como todo aquello que procura placer, vale la pena hacerlo bien
+      h5.mb-2 Es el momento del nacimiento en el que todos somos iguales, y es de ese instante, del que el humano, intenta huir.”
 
-      span Squicciarino,.1990
+      span Squicciarino,.1990.
 
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-down")
       .col-lg-10
@@ -420,6 +420,7 @@
             h4.text-color.text-center.mt-3 El cuerpo en cada individuo por naturaleza siempre dará como resultado una silueta diferente, que a su vez puede ser transformada por todo lo que allí se pueda portar.
             .hr.mt-3
             p.mt-5 En la silueta, se da la primera búsqueda del equilibrio de la estética en la transformación visual del cuerpo, se pretende proyectar un dinamismo en su composición, generar sensaciones determinadas por el uso de materiales, aplicación de volumen, estrechez, texturas, color y en general todo aquello que visualmente hace que las personas se vean diferentes. La adición de ornamentos y accesorios crea la transformación de lo básico, mostrando una distorsión deseada del cuerpo.
+            p En el siguiente documento podremos profundizar al respecto.
             .row.justify-content-center.align-items-center.mt-5
               .col-lg-8        
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_6_Cuerpos_ideales.pdf')" target="_blank")
@@ -612,7 +613,7 @@
           .col-lg-5.my-3
             .row.justify-content-center.align-items-center
               .col-lg-8           
-                a.anexo.a-bg-1(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_D_Desarrollo_de_Concepto_de_Moda_y_Color_por_Patricia_Baldovino.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto

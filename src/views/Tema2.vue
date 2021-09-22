@@ -8,6 +8,13 @@
       h1 Historia de la moda 
 
     img.img-t.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img38.png', alt='')
+    p(data-aos="fade-down").mt-5 Desde el inicio de los tiempos el ser humano ha cubierto su cuerpo, en un comienzo para satisfacer las necesidades básicas como protección del clima o de depredadores, para luego adquirir un carácter estético con el que se reflejan sexo biológico, género, gustos, jerarquías, oficios, posición social, cultural y creencias de quien lo porta.
+
+    p(data-aos="fade-down") De igual manera el ser humano ha utilizado los materiales que ha tenido a la mano, transformándolos en tejidos o piezas para vestir.
+
+    p(data-aos="fade-down") Adicionalmente, la historia del vestuario ha servido como testimonio de la evolución de las técnicas, tecnologías y métodos de la cultura material humana. Puesto que, esta industria, ha adoptado tempranamente los inventos, contribuyendo al desarrollo de nuevas formas de ver el mundo.
+
+    p(data-aos="fade-down") Por lo anterior, se hace fundamental conocer la historia de la moda, sus formas, materiales, significados y evolución para el estudio del tecnólogo en desarrollo de colecciones.
 
     Separador                             
       
@@ -57,12 +64,12 @@
         img.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img40.png', alt='')
       .col-lg-6.p-5.bg-color-4
         p.mt-4(data-aos="fade-down") Desde los inicios de los tiempos el ser humano ha buscado 
-        span(style='color:#BF3976') cubrir su cuerpo
-        span(style='color:#00223D') , bien sea por necesidades de protección, como adorno o como indicador de jerarquía u oficios. El vestuario con sus complementos ha servido como vehículo de comunicación, de individualismo, vanidad, ideología, simbolismo y belleza.
+          span(style='color:#BF3976') cubrir su cuerpo
+          span(style='color:#00223D') , bien sea por necesidades de protección, como adorno o como indicador de jerarquía u oficios. El vestuario con sus complementos ha servido como vehículo de comunicación, de individualismo, vanidad, ideología, simbolismo y belleza.
 
         p(data-aos="fade-down") Las civilizaciones antiguas trabajaron con materiales a los que tenían acceso, puesto que aún no se desarrollaba en su totalidad el comercio. 
-        span(style='color:#BF3976') Cada cultura desarrolló ricas técnicas y tecnologías para la fabricación de prendas, joyas, complementos y maquillaje
-        span(style='color:#00223D') , logrando la transformación de las materias primas en sorprendentes atuendos.<br> <i>(Geringer, Nieves & Soto, 2001).</i>
+          span(style='color:#BF3976') Cada cultura desarrolló ricas técnicas y tecnologías para la fabricación de prendas, joyas, complementos y maquillaje
+          span(style='color:#00223D') , logrando la transformación de las materias primas en sorprendentes atuendos.<br> <i>(Geringer, Nieves & Soto, 2001).</i>
 
     p(data-aos="fade-down").mt-5 #[b Vídeo.] Departamento de Historia del Instituto Nacional,  Antiguo Egipto - La moda
 
@@ -123,8 +130,8 @@
         img.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img43.png', alt='')
       .col-lg-6
         p.p-5.my-5 
-          span(style='color:#fff') Durante este periodo
-          span(style='color:#FFE266') comenzaron los sastres 
+          span(style='color:#fff') Durante este período 
+          span(style='color:#FFE266') comenzaron los sastres
           span(style='color:#fff') , quienes tenían su casa y taller en un solo lugar. También había sastres ambulantes, quienes llegaban con prendas y telas foráneas.<br><br>Fue en el renacimiento que 
           span(style='color:#FFE266') se comenzó a deformar la figura 
           span(style='color:#fff') según su canon de belleza, enfatizando hombros anchos, un talle largo y estrecho y anchas caderas (Acosta, 2012; Historia de la Moda — RENACIMIENTO Siglo XIV a XVI, s.f.)
@@ -180,15 +187,15 @@
           span(style='color:#BF3976') indumentaria
           span(style='color:#00223D') , también esta fue pronto 
           span(style='color:#BF3976') elevada a la categoría de arte. 
-          span(style='color:#00223D') Aunque Francia ya había sido líder reconocido de la moda durante el reinado de Luis XIV, el periodo rococó confirmo la reputación del país como líder de la moda femenina en todo el mundo.
+          span(style='color:#00223D') Aunque Francia ya había sido líder reconocido de la moda durante el reinado de Luis XIV, el período rococó confirmo la reputación del país como líder de la moda femenina en todo el mundo.
 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
       .col-12.bg-img-10.px-5.pb-5.pt-0
         .row(data-aos="flip-down")       
           .col-lg-5
-            p Este periodo tiene un final abrupto con la revolución francesa en 1789. La indumentaria femenina va a sufrir cambios drásticos en el periodo siguiente como una tendencia a renovarse y dejar atrás la artificialidad y el lujo desmedido. Por otra parte, el traje del hombre seguirá una misma línea enriqueciéndose de tipologías de sastrería y prendas del traje militar (Laver, 2005).
+            p Este período tiene un final abrupto con la revolución francesa en 1789. La indumentaria femenina va a sufrir cambios drásticos en el período siguiente como una tendencia a renovarse y dejar atrás la artificialidad y el lujo desmedido. Por otra parte, el traje del hombre seguirá una misma línea enriqueciéndose de tipologías de sastrería y prendas del traje militar (Laver, 2005).
 
-            p El vestuario en el Rococó se distinguió por su fantasía, asimetría, grandes volúmenes y finos detalles. Su vistosa belleza estaba acentuada en el uso de tejidos como: satén, atlas, brocados y encajes, generalmente en tonos pastel (Moda del periodo rococó - Diccionario Textil, s.f.)
+            p El vestuario en el Rococó se distinguió por su fantasía, asimetría, grandes volúmenes y finos detalles. Su vistosa belleza estaba acentuada en el uso de tejidos como: satén, atlas, brocados y encajes, generalmente en tonos pastel (Moda del período rococó - Diccionario Textil, s.f.)
             a.anexo.my-3.a-bg-3.mt-4(href="https://co.pinterest.com/storeevangeline/vestuario-rococ%C3%B3/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
@@ -437,13 +444,20 @@
       
     #t_2_7.titulo-segundo(data-aos="fade-right")
       h2 2.7  La moda en el siglo XXI 
+    p(data-aos="fade-down") El nuevo milenio trae consigo la revolución de las tecnologías, actualmente se habla de la cuarta revolución industrial o industria 4.0 (Peña, 2019). 
+
+    p(data-aos="fade-down") El mundo va a una velocidad nunca antes registrada e internet posibilita la inmediatez de la comunicación. Los procesos productivos industriales se han globalizado, lo que permite trabajar cada una de sus faces desde diferentes lugares del mundo (Riello, 2012). 
+
+    p(data-aos="fade-down") Se conciben, diseñan, producen y comercializan colecciones de vestuario en menos de 18 días, a lo que se le conoce como moda rápida (Salcedo, 2014). 
+
+    p(data-aos="fade-down") La moda es concebida como un sistema, en el que confluyen realidad y conceptos, dando más importancia a las tiendas que a las fábricas, el producto no es más que un vehículo de comunicación y reflejo de identidades globalizadas (Riello, 2012).
 
     TabsB.color-acento-contenido.mt-5
       .py-4.py-md-5.bg-color-11.p-4(titulo="Concepción futurista" :icono="require('@/assets/ilustraciones/img59.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-11
             p 
-              span(style='color:#13629C') La humanidad vive la idea de vida del futuro, concebida en los siglos pasados              
+              span(style='color:#13629C') La humanidad vive la idea de vida del futuro, concebida en los siglos pasados
               span(style='color:#00223D') , los avances tecnológicos permean la cotidianidad, en la cadena de producción de la moda la tecnología está presente en todos sus eslabones: 
             .row.justify-content-center.align-items-stretch(data-aos="flip-down")       
               .col-lg-6                      
@@ -543,7 +557,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-11
             p En contraste  
-              span(style='color:#BF3976') aparecen los movimientos de contracultura              
+              span(style='color:#BF3976') aparecen los movimientos de contracultura
               span(style='color:#00223D') , que abogan por la sostenibilidad y la herencia de las futuras generaciones, entre ellos:  
             .row.justify-content-center.align-items-stretch(data-aos="flip-down")       
               .col-lg-11                     
