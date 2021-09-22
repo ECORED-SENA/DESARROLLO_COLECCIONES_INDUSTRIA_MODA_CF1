@@ -1003,6 +1003,59 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Marisol Osorio Beltrán',
+        cargo: 'Líder Sennova',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'María Luisa Yépez',
+        cargo: 'Instructora',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Fabio Andrés Gaviria Londoño',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Luis Alfonso Hincapié Echeverri',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Idian Fernando López Agudelo',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Ruth Elena Morales Ríos',
+        cargo: 'Instructor',
+        centro:
+          'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
+      },
+      {
+        nombre: 'Liliana Victoria Morales Gualdrón',
+        cargo: 'Diseñador instruccional',
+        centro:
+          'Centro para la comunicación de la Industria Gráfica – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Evaluador instruccional',
+        centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro para la Comunicación de la Industria Gráfica – Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -1017,25 +1070,25 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Julian Marquez Sanabria',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
