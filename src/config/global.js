@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos del vestuario I',
     descripcionCurso:
-      'Es importante que el aprendiz SENA, en el momento de ingresar a su formación clarifique los elementos fundamentales que formarán parte integral como Tecnólogo en desarrollo de colecciones para la industria de la moda, teniendo presente que la industria de la moda es una de las actividades comerciales con la mayor confluencia de diferentes sectores económicos y que tiene una fuerte incidencia en entornos como la sociedad, la religión, la política, la cultura y el comercio.',
+      'Es importante que el aprendiz SENA, en el momento de ingresar a su formación clarifique los elementos fundamentales que formarán parte integral como Tecnólogo en Desarrollo de Colecciones para la Industria de la Moda, teniendo presente que la industria de la moda es una de las actividades comerciales con la mayor confluencia de diferentes sectores económicos y que tiene una fuerte incidencia en entornos como la sociedad, la religión, la política, la cultura y el comercio.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
