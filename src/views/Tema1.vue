@@ -12,6 +12,10 @@
       h5.mb-2 Mis ideas proceden de mis sueños […]. Si tienes suerte y eres capaz de utilizar algo que has visto en tus sueños, el resultado será totalmente original. No es algo que ya exista en el mundo, sino que está en tu cabeza. Pienso que esto es extraordinario.
       span (Alexander McQueen, s.f., como se citó en Seivewright, Simon & Zelich, 2013)
 
+    Separador      
+    #t_1_1.titulo-segundo(data-aos="fade-right")
+      h2 1.1 Introducción  
+
     .bloque-texto-c.color-primario.p-4.mt-5(data-aos="fade-left")
       i.fas.fa-quote-right
       h5.mb-2 La moda no es más que una forma de fealdad tan intolerable que nos vemos obligados a cambiarla cada seis meses.
@@ -55,8 +59,8 @@
 
     Separador                             
       
-    #t_1_1.titulo-segundo(data-aos="fade-right")
-      h2 1.1  ¿Está a la moda?
+    #t_1_2.titulo-segundo(data-aos="fade-right")
+      h2 1.2  ¿Está a la moda?
 
     p(data-aos="fade-down") Es una pregunta que a diario se debería hacer toda persona que quiere formarse para trabajar en el mundo de la moda y entender su significado. Cuando los coetáneos o la industria estiman que los diseños están acordes con el espíritu del momento, significa que el proceso de diseño tiene grandes posibilidades de ser exitoso en el mercado.
 
@@ -100,8 +104,8 @@
 
     Separador                             
       
-    #t_1_2.titulo-segundo(data-aos="fade-right")
-      h2 1.2  Conocer de moda 
+    #t_1_3.titulo-segundo(data-aos="fade-right")
+      h2 1.3  Conocer de moda 
     p(data-aos="fade-down") 
       span(style='color:#00223D') Es fundamental que las personas que intervienen en el proceso de desarrollo de una colección adquieran la habilidad para construir a partir de varias fuentes; 
       span(style='color:#BF3976') lo principal es vivenciar lo que está pasando, leer el entorno, el tiempo, el espacio, la necesidad, el usuario, esto es lo que se llama “conocer de moda”.  
@@ -134,8 +138,8 @@
 
     Separador                             
       
-    #t_1_3.titulo-segundo(data-aos="fade-right")
-      h2 1.3  Empezar a investigar de moda 
+    #t_1_4.titulo-segundo(data-aos="fade-right")
+      h2 1.4  Empezar a investigar de moda 
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.bg-img-3.p-5
@@ -239,8 +243,8 @@
 
     Separador                             
       
-    #t_1_4.titulo-segundo(data-aos="fade-right")
-      h2  1.4  Concepto de moda
+    #t_1_5.titulo-segundo(data-aos="fade-right")
+      h2  1.5  Concepto de moda
 
     .bloque-texto-c.color-primario.p-4.mt-5(data-aos="fade-left")
       i.fas.fa-quote-right
@@ -308,8 +312,8 @@
 
     Separador                             
       
-    #t_1_5.titulo-segundo(data-aos="fade-right")
-      h2 1.5  Métodos para generar ideas
+    #t_1_6.titulo-segundo(data-aos="fade-right")
+      h2 1.6  Métodos para generar ideas
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-4.px-0(data-aos="flip-down")
         img.img-a(src='@/assets/ilustraciones/img16.png', alt='')
@@ -338,8 +342,8 @@
 
     Separador                             
       
-    #t_1_6.titulo-segundo(data-aos="fade-right")
-      h2 1.6  Diseñar 
+    #t_1_7.titulo-segundo(data-aos="fade-right")
+      h2 1.7  Diseñar 
     .bloque-texto-c.color-primario.p-4.mt-5(data-aos="fade-left")
       i.fas.fa-quote-right
       h5.mb-2 La moda es algo muy importante. Potencia la vida y, como todo aquello que procura placer, vale la pena hacerlo bien
@@ -393,8 +397,8 @@
 
     Separador                             
       
-    #t_1_7.titulo-segundo(data-aos="fade-right")
-      h2 1.7  Cuerpos y siluetas   
+    #t_1_8.titulo-segundo(data-aos="fade-right")
+      h2 1.8  Cuerpos y siluetas   
 
     .bloque-texto-c.color-secundario.p-4.mt-5(data-aos="fade-right")
       i.fas.fa-quote-right
@@ -433,8 +437,8 @@
 
     Separador                             
       
-    #t_1_8.titulo-segundo(data-aos="fade-right")
-      h2 1.8  Proporciones y líneas 
+    #t_1_9.titulo-segundo(data-aos="fade-right")
+      h2 1.9  Proporciones y líneas 
     .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")
       .col-lg-5
         p(data-aos="fade-down") Las proporciones del cuerpo visualmente se refieren 
@@ -469,8 +473,8 @@
 
     Separador                             
       
-    #t_1_9.titulo-segundo(data-aos="fade-right")
-      h2 1.9  Color 
+    #t_1_10.titulo-segundo(data-aos="fade-right")
+      h2 1.10  Color 
 
     img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img25.png', alt='')
 
@@ -513,8 +517,8 @@
 
     Separador                             
       
-    #t_1_10.titulo-segundo(data-aos="fade-right")
-      h2 1.10  Tejidos y texturas                     
+    #t_1_11.titulo-segundo(data-aos="fade-right")
+      h2 1.11  Tejidos y texturas                     
     img.img-a.img-t.my-5(data-aos="fade-left")(src='@/assets/ilustraciones/img28.png', alt='')
 
     p(data-aos="fade-down") Un tejido textil es una construcción de una tela a partir de una manera particular de entrelazar hilos de forma ordenada, mediante una técnica. 
@@ -547,8 +551,8 @@
 
     Separador                             
       
-    #t_1_11.titulo-segundo(data-aos="fade-right")
-      h2 1.11  Representación gráfica de las ideas 
+    #t_1_12.titulo-segundo(data-aos="fade-right")
+      h2 1.12  Representación gráfica de las ideas 
 
     p(data-aos="fade-down") En el desarrollo de una colección, 
       span(style='color:#BF3976') las ideas se comunican a través de dibujos por medio del lenguaje universal de signos gráficos
