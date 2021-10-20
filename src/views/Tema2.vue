@@ -42,13 +42,13 @@
       .col-lg-6.px-0
         img.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img39.png', alt='')
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)
+    p(data-aos="fade-down").mt-5 #[b Video.] Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)
 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/rKegRnTimFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] The many shapes and sizes of Catwalk de Rijksmuseum – Facebook (Rijksmuseum, 2016)
+    p(data-aos="fade-down").mt-5 #[b Video.] The many shapes and sizes of Catwalk de Rijksmuseum – Facebook (Rijksmuseum, 2016)
 
     figure.mt-5
       .video
@@ -71,13 +71,13 @@
           span(style='color:#BF3976') Cada cultura desarrolló ricas técnicas y tecnologías para la fabricación de prendas, joyas, complementos y maquillaje
           span(style='color:#00223D') , logrando la transformación de las materias primas en sorprendentes atuendos.<br> <i>(Geringer, Nieves & Soto, 2001).</i>
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Departamento de Historia del Instituto Nacional,  Antiguo Egipto - La moda
+    p(data-aos="fade-down").mt-5 #[b Video.] Departamento de Historia del Instituto Nacional,  Antiguo Egipto - La moda
 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/R5xXX92AkmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Historia de la moda, Cap 1. La elegancia romana
+    p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda, Cap 1. La elegancia romana
 
     figure.mt-5
       .video
@@ -93,13 +93,13 @@
 
     img.img-a.img-t.mt-5(data-aos="fade-left")(src='@/assets/ilustraciones/img41.svg', alt='')
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Historia de la moda, Cap 1. La loca Edad Media
+    p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda, Cap 1. La loca Edad Media
 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/F9C4PwnBlS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-    //- p(data-aos="fade-down").mt-5 #[b Vídeo.] Historia de la moda, Cap 2. La elegancia romana
+    //- p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda, Cap 2. La elegancia romana
 
     //- figure.mt-5
     //-   .video
@@ -136,7 +136,7 @@
           span(style='color:#FFE266') se comenzó a deformar la figura 
           span(style='color:#fff') según su canon de belleza, enfatizando hombros anchos, un talle largo y estrecho y anchas caderas (Acosta, 2012; Historia de la Moda — RENACIMIENTO Siglo XIV a XVI, s.f.)
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Historia de la moda Cap 3 Pelucas y encajes
+    p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda Cap 3 Pelucas y encajes
 
     figure.mt-5
       .video
@@ -213,13 +213,13 @@
       h2 2.5  Siglos XVIII y XIX 
     LineaTiempoB.color-secundario.mt-5.bg-color-9.p-5(:datos="datosLineaTiempoB")(data-aos="flip-right")
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Historia de la moda Cap 4 La Revolución– YouTube (Allante, 2007)
+    p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda Cap 4 La Revolución– YouTube (Allante, 2007)
 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/emerf2WAjrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-    p(data-aos="fade-down").mt-5 #[b Vídeo.] Muestra de ropa del siglo XVIII – Museo Vasco de Bilbao YouTube (Museo Vasco de Bilbao, 2018)
+    p(data-aos="fade-down").mt-5 #[b Video.] Muestra de ropa del siglo XVIII – Museo Vasco de Bilbao YouTube (Museo Vasco de Bilbao, 2018)
 
     figure.mt-5
       .video
@@ -227,9 +227,9 @@
 
     .row.justify-content-center.align-items-center.bg-color-10.p-4.mt-3(data-aos="fade-left")
       .col-lg-6(data-aos="fade-down")
-        p.mb-0 Vídeo. La moda romántica – Museo del Romanticismo YouTube (Museo del Rromanticismo, 2016)        
+        p.mb-0 Video. La moda romántica – Museo del Romanticismo YouTube (Museo del Rromanticismo, 2016)        
       .col-lg-6(data-aos="fade-down")
-        p.mb-0 Vídeo. 19th Century Fashion - How To Tell Different Decades Apart? – YouTube (Żebrowska, 2017)  
+        p.mb-0 Video. 19th Century Fashion - How To Tell Different Decades Apart? – YouTube (Żebrowska, 2017)  
 
     .row.justify-content-center.align-items-center.bg-color-6.mt-5.p-3(data-aos="fade-right")
       .col-lg-6.my-2
@@ -326,14 +326,14 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b Vídeo  Fashion History]. 1900-1920 (Hong, 2019)   
+                    p #[b Video  Fashion History]. 1900-1920 (Hong, 2019)   
             .row
               .col-lg-8               
                 a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=7IP5zAefiiQ&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b Vídeo]. 100 Years of French Fashion | Glamour – YouTube (Glamour, 2018)                                
+                    p #[b Video]. 100 Years of French Fashion | Glamour – YouTube (Glamour, 2018)                                
 
         .row.justify-content-center.align-items-center(titulo="1920-1930")
           .col-md-3
@@ -349,14 +349,14 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b Vídeo]. Los felices años 20 Documental – YouTube (JJlife’s, 2016)   
+                    p #[b Video]. Los felices años 20 Documental – YouTube (JJlife’s, 2016)   
             .row
               .col-lg-8               
                 a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=r7OXmYZ0yC8&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b Vídeo]. Música década 1920-1930 – YouTube (Madrid, 2018)  
+                    p #[b Video]. Música década 1920-1930 – YouTube (Madrid, 2018)  
 
             .row
               .col-lg-8               
@@ -364,7 +364,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b Vídeo]. Las Flappers de 1920 – YouTube (Persefone Rest In Peace, 2018)                      
+                    p #[b Video]. Las Flappers de 1920 – YouTube (Persefone Rest In Peace, 2018)                      
 
         .row.justify-content-center.align-items-center(titulo="1930-1940")
           .col-md-3
@@ -385,7 +385,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b Vídeo]. 1930 Fashion Show – YouTube (CountDisco1, 2009)
+                    p #[b Video]. 1930 Fashion Show – YouTube (CountDisco1, 2009)
 
         .row.justify-content-center.align-items-center(titulo="1940-1950")
           .col-md-3
@@ -427,7 +427,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b vídeo]. Canal de YouTube de Chanel (Chanel, s.f.)
+                    p #[b Video]. Canal de YouTube de Chanel (Chanel, s.f.)
 
             .row
               .col-lg-8               
@@ -435,14 +435,14 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b vídeo]. Coco Chanel vintage fashion shows – YouTube (Dyoniss99, 2010) 
+                    p #[b Video]. Coco Chanel vintage fashion shows – YouTube (Dyoniss99, 2010) 
             .row
               .col-lg-8               
                 a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b vídeo]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)                                       
+                    p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)                                       
 
         .row.justify-content-center.align-items-center(titulo="1960-1970")
           .col-md-3
@@ -471,7 +471,7 @@
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p #[b vídeo]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)               
+                    p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)               
 
         .row.justify-content-center.align-items-center(titulo="1970-1980")
           .col-md-3
@@ -674,7 +674,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo]. MUJER Y MODA EN EL SIGLO XXI – YouTube (Carchano, 2015)   
+            p #[b Video]. MUJER Y MODA EN EL SIGLO XXI – YouTube (Carchano, 2015)   
       .col-lg-5       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="http://www.area-documental.com/player.php?titulo=The%20True%20Cost" target="_blank")
           .anexo__icono
@@ -688,33 +688,33 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo]. Industria Textil y Moda 4.0 - Presentación Innovation Fashion Forum – YouTube (Farias, 2019a)   
+            p #[b Video]. Industria Textil y Moda 4.0 - Presentación Innovation Fashion Forum – YouTube (Farias, 2019a)   
       .col-lg-5       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=zJg8k5-QJOw" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo]. Innovación en la industria textil – YouTube (Fundación Pro Tejer, 2018)      
+            p #[b Video]. Innovación en la industria textil – YouTube (Fundación Pro Tejer, 2018)      
     .row.justify-content-center.align-items-stretch.mt-4
       .col-lg-5       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=id9qip1mWZM" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo]. Moda 4.0 para Dummies - Colombiamoda 2019- YouTube (Inexmoda & Bena, 2019)   
+            p #[b Video]. Moda 4.0 para Dummies - Colombiamoda 2019- YouTube (Inexmoda & Bena, 2019)   
       .col-lg-5       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=K2cOViIZWD8" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo]. Industria 4.0 "Cambiando esquemas y creando nuevas oportunidades" | Nasser Mohamed | TEDxUANL – YouTube (Mohamed & TEDx Talks, 2020)  
+            p #[b Video]. Industria 4.0 "Cambiando esquemas y creando nuevas oportunidades" | Nasser Mohamed | TEDxUANL – YouTube (Mohamed & TEDx Talks, 2020)  
     .row.justify-content-center.align-items-stretch.mt-4
       .col-lg-5       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/c/inexmoda/videos" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Vídeo]. Canal de YouTube Inxmoda (Inexmoda, s.f.)   
+            p #[b Video]. Canal de YouTube Inxmoda (Inexmoda, s.f.)   
       .col-lg-5       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="http://bloshka.info/category/fashion/" target="_blank")
           .anexo__icono
