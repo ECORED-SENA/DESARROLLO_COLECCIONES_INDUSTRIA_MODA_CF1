@@ -7,7 +7,7 @@
         span 2
       h1 Historia de la moda 
 
-    img.img-t.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img38.png', alt='')
+    img.img-t.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img38.svg', alt='')
     p(data-aos="fade-down").mt-5 Desde el inicio de los tiempos el ser humano ha cubierto su cuerpo, en un comienzo para satisfacer las necesidades básicas como protección del clima o de depredadores, para luego adquirir un carácter estético con el que se reflejan sexo biológico, género, gustos, jerarquías, oficios, posición social, cultural y creencias de quien lo porta.
 
     p(data-aos="fade-down") De igual manera el ser humano ha utilizado los materiales que ha tenido a la mano, transformándolos en tejidos o piezas para vestir.
