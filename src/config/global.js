@@ -493,18 +493,6 @@ export default {
     },
     {
       referencia:
-        'Región de Murcia Digital. (s.f.). Cultura material medieval. Región de Murcia Digital. Retrieved July 6, 2020, from ',
-      link:
-        'https://www.regmurcia.com/servlet/s.Sl?sit=c,522,m,2613&r=ReP-19933-',
-    },
-    {
-      referencia:
-        'Riello, G. (2012). Breve historia de la moda: desde la Edad Media hasta la actualidad. Editorial Gustavo Gili. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=4536133',
-    },
-    {
-      referencia:
         'Rijksmuseum. (2016). The many shapes and sizes of Catwalk. Facebook. ',
       link: 'https://www.facebook.com/rijksmuseum/videos/10156670232395177',
     },
