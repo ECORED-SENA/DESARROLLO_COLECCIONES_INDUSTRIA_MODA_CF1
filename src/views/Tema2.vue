@@ -88,8 +88,8 @@
     #t_2_3.titulo-segundo(data-aos="fade-right")
       h2 2.3  Edad media 
     p(data-aos="fade-down") El período medieval comienza en el 476 d.C. luego de que los pueblos germánicos dieran fin al Imperio Romano e 
-    span(style='color:#BF3976') implantaran la práctica de coser la ropa de forma manual, 
-    span(style='color:#00223D') usando mayormente telas de lana en su vestuario, siendo muy apreciados los paños.
+      span(style='color:#BF3976') implantaran la práctica de coser la ropa de forma manual, 
+      span(style='color:#00223D') usando mayormente telas de lana en su vestuario, siendo muy apreciados los paños.
 
     img.img-a.img-t.mt-5(data-aos="fade-left")(src='@/assets/ilustraciones/img41.svg', alt='')
 
