@@ -99,11 +99,53 @@
 .bloque-texto-c.color-primario
   background-color: lighten(#0AC4BF,50% ) 
     
-.bg-img 
-  background-image: url(../assets/ilustraciones/img1.png)
-  margin-inline: -3.2rem
+.bg-img-teme-1 
+  background-image: url(../assets/ilustraciones/img1-1.jpg)
   background-repeat: no-repeat
-  background-size: cover
+  background-size: auto 100%
+  background-repeat: repeat-x
+  background-position: bottom right 
+.bg-img-teme-1-1 
+  background-image: url(../assets/ilustraciones/img1-2.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-position: bottom left    
+
+.bg-img-teme-1-2 
+  background-image: url(../assets/ilustraciones/img1-3.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-repeat: repeat-x
+  background-position: bottom right 
+.bg-img-teme-1-3 
+  background-image: url(../assets/ilustraciones/img1-4.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-position: bottom left 
+
+.bg-img-teme-1-4 
+  background-image: url(../assets/ilustraciones/img1-5.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-repeat: repeat-x
+  background-position: bottom right 
+.bg-img-teme-1-5 
+  background-image: url(../assets/ilustraciones/img1-6.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-position: bottom left   
+
+.bg-img-teme-1-6
+  background-image: url(../assets/ilustraciones/img1-7.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-repeat: repeat-x
+  background-position: bottom right 
+.bg-img-teme-1-7
+  background-image: url(../assets/ilustraciones/img1-8.jpg)
+  background-repeat: no-repeat
+  background-size: auto 100%
+  background-position: bottom left 
 
 .bg-img-1 
   background-image: url(../assets/ilustraciones/img3.png)
@@ -123,17 +165,16 @@
   background-repeat: no-repeat
   background-size: cover    
   
-.bg-img-4
-  background-image: url(../assets/ilustraciones/img7.png)
-  margin-inline: -3.2rem
-  background-repeat: no-repeat
-  background-size: cover  
-
 .bg-img-5
+  background-image: url(../assets/ilustraciones/img16.png)
+  background-repeat: no-repeat
+  background-size: cover 
+  background-position: center
+.bg-img-5-1
   background-image: url(../assets/ilustraciones/img17.png)
   margin-inline: -3.2rem
   background-repeat: no-repeat
-  background-size: cover 
+  background-size: cover   
 
 .bg-img-6
   background-image: url(../assets/ilustraciones/img21.png)
@@ -165,6 +206,49 @@
   background-repeat: no-repeat
   background-size: cover   
 
+.bg-img-11
+  background-image: url(../assets/ilustraciones/img22.png)
+  background-repeat: no-repeat
+  background-size: cover 
+  background-position: center
+
+.bg-img-12
+  background-image: url(../assets/ilustraciones/img29.png)
+  background-repeat: no-repeat
+  background-size: cover 
+  background-position: center
+
+.bg-img-13
+  background-image: url(../assets/ilustraciones/img30.png)
+  background-repeat: no-repeat
+  background-size: cover 
+  background-position: center  
+
+.bg-img-14
+  background-image: url(../assets/ilustraciones/img39.png)
+  background-repeat: no-repeat
+  background-size: cover 
+  background-position: center 
+
+.bg-img-15
+  background-image: url(../assets/ilustraciones/img40.png)
+  background-repeat: no-repeat
+  background-size: cover 
+  background-position: center   
+
+.bg-img-16
+  background-image: url(../assets/ilustraciones/img62.jpg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: center 
+
+.bg-img-17
+  background-image: url(../assets/ilustraciones/img63.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom center  
+
+
 .bg-color-1
   background-color: #E8E8E8 
   border-bottom: 5rem solid #4BB8DE
@@ -176,11 +260,11 @@
   background-color: lighten(#339CE9,33%) 
 
 .a-bg-1
-  background-color: #E5B0C8 !important
+  background-color: #6CDCD9 !important
 .anexo *
   color: #00223D !important  
 .anexo:hover
-  background-color: lighten(#E5B0C8,10%) !important         
+  background-color: lighten(#6CDCD9,10%) !important         
 
 .a-bg-2
   background-color: #5FC6FF !important
@@ -239,7 +323,7 @@
   background-color: #776A9A
 
 .bg-color-4
-  background-color: #F2D7E4
+  background-color: #F2D7E4 !important
 
 .bg-color-5
   background-color: #173451
@@ -266,3 +350,112 @@
 
 .bg-color-12
   background-color: lighten(#E5B0C8,5%) !important   
+
+.bg-color10 
+    background-color: #E8DDD4
+    background-image: url(../assets/ilustraciones/img61.png)
+    background-repeat: no-repeat
+    background-position: bottom  
+
+.br-radius
+  border-radius: 20px     
+
+$gutter: 30px
+$border-width: 6px
+$dot-diameter: 28px
+.timeline 
+  width: 100%
+  max-width: 1000px
+  padding: 100px 50px
+  position: relative
+  &:before 
+    content: ''
+    position: absolute
+    top: 0px
+    left: calc(34.2% + -35px) //$gutter/2
+    bottom: 0px
+    width: 10px
+    background: #0AC4BF
+    border-radius: 20px  
+  &:after 
+    content: ""
+    display: table
+    clear: both
+.entry 
+  clear: both
+  text-align: left
+  position: relative
+  .title 
+    margin-bottom: .5em
+    float: left
+    padding-right: $gutter
+    text-align: right
+    position: relative  
+    width: 90px
+    height: 90px
+    background: #BF3976
+    border-radius: 50%
+    transition: transform .3s ease-in-out
+    display: flex
+    justify-content: center
+    align-items: center
+    margin-left: 14.5%
+    &:before 
+      content: ''
+      position: absolute
+      width: $dot-diameter
+      height: $dot-diameter
+      border: $border-width solid #BF3976
+      background-color:#0AC4BF
+      border-radius: 100%
+      top: 40%
+      left: 130%
+      right: -$dot-diameter
+      z-index: 99
+    &:after
+      content: ""
+      display: block
+      top: 38%
+      left: 73%
+      width: 30px
+      height: 30px
+      transform: rotate(45deg)
+      position: absolute
+      background: #BF3976
+    h3 
+      margin: 0
+      margin-left: 30px      
+      font-size: 120%
+      z-index: 20
+      color: white 
+    p 
+      margin: 0
+      font-size: 100%  
+  .body 
+    margin: 0 0 3em
+    float: right
+    width: 70%
+    padding-left: $gutter
+    p 
+      line-height: 1.4em
+      &:first-child 
+        margin-top: 0
+        font-weight: 400     
+    ul 
+      color:#aaa
+      padding-left: 0
+      list-style-type: none
+      li:before 
+        content: "–"
+        margin-right: .5em
+      
+
+@media only screen and (max-width: 992px)
+    .timeline 
+      padding: 0px
+    .body
+      width: auto !important      
+    .entry .body      
+      padding-left: 0px 
+    .timeline::before
+      background-color: transparent !important         

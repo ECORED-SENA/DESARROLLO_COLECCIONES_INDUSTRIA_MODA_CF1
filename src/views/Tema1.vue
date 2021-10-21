@@ -21,41 +21,40 @@
       h5.mb-2 La moda no es más que una forma de fealdad tan intolerable que nos vemos obligados a cambiarla cada seis meses.
       span Sorger, Udale & Zelich, 2007
     
-    .row.justify-content-center.align-items-center(data-aos="fade-right")
-      .col-12.bg-img.p-5.mt-5 
-        .row(data-aos="flip-down")       
-          .col-lg-5.my-5
-            p(data-aos="fade-down") Es insaciable y despiadada, sin embargo, la capacidad para crear prendas de vestir es también algo muy atractivo y satisfactorio.
-            p(data-aos="fade-down") Los diseñadores necesitan investigar para: 
-            .row.justify-content-center.align-items-center(data-aos="flip-down")       
-              .col-lg-11                      
-                .list.mt-4
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                  .list__txt 
-                      span Comprender las técnicas de construcción de prendas.
-                .list.mt-4
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                  .list__txt 
-                      span Saber desarrollar una colección.
-                .list.mt-4
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                  .list__txt 
-                      span Saber y entender para quien diseñan.
-                .list.mt-4
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
-                  .list__txt 
-                      span Qué tipo de prenda van a desarrollar y para qué estación. 
-            p(data-aos="fade-down").mt-5 Acabar una colección es solo el principio; luego debe ser promocionada y comercializada.  
+    .row.justify-content-center.align-items-stretch.mt-5
+      .col-lg-6.bg-img-teme-1.p-5(data-aos="fade-right")
+        p(data-aos="fade-down") Es insaciable y despiadada, sin embargo, la capacidad para crear prendas de vestir es también algo muy atractivo y satisfactorio.
+        p(data-aos="fade-down") Los diseñadores necesitan investigar para: 
+        .row.justify-content-center.align-items-center(data-aos="flip-down")       
+          .col-lg-11                      
+            .list.mt-4
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span Comprender las técnicas de construcción de prendas.
+            .list.mt-4
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span Saber desarrollar una colección.
+            .list.mt-4
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span Saber y entender para quien diseñan.
+            .list.mt-4
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span Qué tipo de prenda van a desarrollar y para qué estación. 
+        p(data-aos="fade-down").mt-5 Acabar una colección es solo el principio; luego debe ser promocionada y comercializada.  
 
-            p(data-aos="fade-down") Las #[b personas creativas] son indispensables para la industria de la moda y hacen equipo con los encargados de compras, agentes de venta, periodistas, fotógrafos, estilistas, ilustradores y demás actores involucrados en este maravilloso mundo de la moda. 
+        p(data-aos="fade-down").pb-4 Las #[b personas creativas] son indispensables para la industria de la moda y hacen equipo con los encargados de compras, agentes de venta, periodistas, fotógrafos, estilistas, ilustradores y demás actores involucrados en este maravilloso mundo de la moda.       
+      .col-lg-6.bg-img-teme-1-1(data-aos="fade-left") 
 
     Separador                             
       
@@ -64,14 +63,12 @@
 
     p(data-aos="fade-down") Es una pregunta que a diario se debería hacer toda persona que quiere formarse para trabajar en el mundo de la moda y entender su significado. Cuando los coetáneos o la industria estiman que los diseños están acordes con el espíritu del momento, significa que el proceso de diseño tiene grandes posibilidades de ser exitoso en el mercado.
 
-    .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
-      .col-lg-6.px-0
-        img.img-t.img-a(src='@/assets/ilustraciones/img2.png', alt='')
-      .col-lg-6.bg-color-1.p-5
-        .row.justify-content-center.align-items-center.mt-5(data-aos="flip-down")       
-          .col-lg-11        
-            p.mt-5(data-aos="fade-down") Para el desarrollo de colecciones, es importante tener presente:
-            .row.justify-content-center.align-items-center(data-aos="flip-down")       
+    .row.justify-content-center.align-items-stretch.mt-5
+      .col-lg-6.bg-img-teme-1-2(data-aos="fade-right")
+
+      .col-lg-6.bg-img-teme-1-3.p-5.text-white(data-aos="fade-left") 
+        p.mt-5(data-aos="fade-down") Para el desarrollo de colecciones, es importante tener presente:
+        .row.justify-content-center.align-items-center(data-aos="flip-down")       
           .col-lg-11                       
             .list.mt-4
               .list__item
@@ -100,7 +97,7 @@
                     .anexo__icono
                       img(src="@/assets/template/icono-pdf.svg")
                     .anexo__texto
-                      p #[b Anexo 1]. ¿Estás a la moda?   
+                      p #[b Anexo 1]. ¿Estás a la moda? 
 
     Separador                             
       
@@ -128,20 +125,21 @@
                   span(style='color:#00223D') como estilistas, periodistas, fotógrafos y personajes públicos inspiradores.<br><br>
 
                   | A través de la lectura del siguiente documento podrá entender un poco más de qué se trata conocer de moda.
-                .row.justify-content-center.align-items-center.mt-5
-                  .col-lg-8(data-aos="fade-down")
-                    a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_2_Conocer_de_Moda.pdf')" target="_blank")
-                      .anexo__icono
-                        img(src="@/assets/template/icono-pdf.svg")
-                      .anexo__texto
-                        p #[b Anexo 2]. Conocer de Moda  
+
+              .row.justify-content-center.align-items-center.mt-5
+                .col-lg-8(data-aos="fade-down")
+                  a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_2_Conocer_de_Moda.pdf')" target="_blank")
+                    .anexo__icono
+                      img(src="@/assets/template/icono-pdf.svg")
+                    .anexo__texto
+                      p #[b Anexo 2]. Conocer de Moda  
 
     Separador                             
       
     #t_1_4.titulo-segundo(data-aos="fade-right")
       h2 1.4  Empezar a investigar de moda 
 
-    .row.justify-content-center.align-items-center(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.bg-color-4(data-aos="fade-right")
       .col-12.bg-img-3.p-5
         .row.end(data-aos="flip-down")       
           .col-lg-5.my-5
@@ -149,97 +147,98 @@
               span(style='color:#BF3976') búsqueda constante de elementos 
               span(style='color:#00223D') que permitan #[b inventar] todo con cada nueva temporada, utilizando siempre una nueva inspiración, alimentar la investigación con imágenes, inspira 
               span(style='color:#BF3976') #[b la] mente creativa.
-
-    img.img-t.img-a.mt-5(data-aos="fade-down")(src='@/assets/ilustraciones/img6.svg', alt='')
-    .row.justify-content-center.align-items-center
-      .col-10
-        p.mt-5(data-aos="fade-down") Todo depende de la forma como se decida y desarrolle el tema, de tal manera que permita extraer la información necesaria para la nueva colección; el hallazgo debe permitir:
-    img.img-t.img-a.mt-5(data-aos="slide-right")(src='@/assets/ilustraciones/1.svg', alt='')
-    img.img-t.img-a.mt-3(data-aos="slide-left")(src='@/assets/ilustraciones/2.svg', alt='')
-    img.img-t.img-a.mt-3(data-aos="slide-right")(src='@/assets/ilustraciones/3.svg', alt='')
-    img.img-t.img-a.mt-3(data-aos="slide-left")(src='@/assets/ilustraciones/4.svg', alt='')
-    .row.justify-content-center.align-items-center
-      .col-10
-        p.mt-5(data-aos="fade-down").text-center Tejiendo una red de ideas es como se hace posible la investigación en este contexto. 
+    .row.justify-content-center.align-items-center.bg-color-4(data-aos="fade-right")
+      .col-12.p-5    
+        img.img-t.img-a.mt-5(data-aos="fade-down")(src='@/assets/ilustraciones/img6.svg', alt='')
+        .row.justify-content-center.align-items-center
+          .col-10
+            p.mt-5(data-aos="fade-down") Todo depende de la forma como se decida y desarrolle el tema, de tal manera que permita extraer la información necesaria para la nueva colección; el hallazgo debe permitir:
+        img.img-t.img-a.mt-5(data-aos="slide-right")(src='@/assets/ilustraciones/1.svg', alt='')
+        img.img-t.img-a.mt-3(data-aos="slide-left")(src='@/assets/ilustraciones/2.svg', alt='')
+        img.img-t.img-a.mt-3(data-aos="slide-right")(src='@/assets/ilustraciones/3.svg', alt='')
+        img.img-t.img-a.mt-3(data-aos="slide-left")(src='@/assets/ilustraciones/4.svg', alt='')
+        .row.justify-content-center.align-items-center
+          .col-10
+            p.mt-5(data-aos="fade-down").text-center Tejiendo una red de ideas es como se hace posible la investigación en este contexto. 
       
-    .row.justify-content-center.align-items-center(data-aos="fade-right")
-      .col-12.bg-img-4.p-5.mt-5 
-        .row.justify-content-end.align-items-end(data-aos="flip-down")       
-          .col-lg-5.my-5
-            p(data-aos="fade-down") El creativo es un detective a la caza escurridiza de información. Son fuentes de investigación: 
-            .row.justify-content-center.align-items-center(data-aos="flip-down")       
-              .col-lg-11                      
-                .list.mt-4
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Una buena biblioteca es un tesoro, entre más antigua mejor.
+    .row.justify-content-center.align-items-stretch
+      .col-lg-6.bg-img-teme-1-4(data-aos="fade-right")
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Escuelas y universidades.
+      .col-lg-6.bg-img-teme-1-5.p-5(data-aos="fade-left")
+        p(data-aos="fade-down") El creativo es un detective a la caza escurridiza de información. Son fuentes de investigación: 
+        .row.justify-content-center.align-items-center(data-aos="flip-down")       
+          .col-lg-11                      
+            .list.mt-4
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Una buena biblioteca es un tesoro, entre más antigua mejor.
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Los mercados de viejo, tiendas de ropa usada, las ferias de antigüedades, prendas, libros, discos, objetos cotidianos que ya no están de moda.
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Escuelas y universidades.
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span La ropa histórica, étnica, o especializada.
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Los mercados de viejo, tiendas de ropa usada, las ferias de antigüedades, prendas, libros, discos, objetos cotidianos que ya no están de moda.
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Lo que se considera kitsch.
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span La ropa histórica, étnica, o especializada.
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Museos (El Londinense Victoria and Albert Museum).
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Lo que se considera kitsch.
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Las grandes empresas y marcas.
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Museos (El Londinense Victoria and Albert Museum).
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Los viajes, vacaciones.
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Las grandes empresas y marcas.
 
-                .list.mt-3
-                  .list__item
-                      .list__item__icon
-                          img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
-                  .list__txt 
-                      span Documentos, compras, postales, recortes de revistas y dibujos.
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Los viajes, vacaciones.
 
-            p(data-aos="fade-down").mt-5 Todo debe estar a la mano y a la vista como información aplicable para conceptualizar y desarrollar los elementos que forman parte y caracterizan la colección. Revise el documento para profundizar en esta temática. 
-            .row.justify-content-center.align-items-center.mt-5
-              .col-lg-8(data-aos="fade-down")
-                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_3_Empezar_a_investigar_de_moda.pdf')" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p #[b Anexo 3]. Empezar a investigar de Moda
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v2.svg", alt="").img-icon 
+              .list__txt 
+                  span Documentos, compras, postales, recortes de revistas y dibujos.
+
+        p(data-aos="fade-down").mt-5 Todo debe estar a la mano y a la vista como información aplicable para conceptualizar y desarrollar los elementos que forman parte y caracterizan la colección. Revise el documento para profundizar en esta temática. 
+        .row.justify-content-center.align-items-center.mt-5
+          .col-lg-8(data-aos="fade-down")
+            a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_3_Empezar_a_investigar_de_moda.pdf')" target="_blank")
+              .anexo__icono
+                img(src="@/assets/template/icono-pdf.svg")
+              .anexo__texto
+                p #[b Anexo 3]. Empezar a investigar de Moda
 
     Separador                             
       
@@ -264,7 +263,7 @@
       .col-lg-6.bg-color-2.p-4
         .row.justify-content-center.align-items-center(data-aos="flip-down")       
           .col-lg-11        
-            p(data-aos="fade-down") El concepto es una forma de estimular la mente y de abrir nuevas direcciones al proceso de desarrollo de la colección, el creativo debe ser honesto con el tema, que le interese, estimule e inspire; el tema puede ser conceptual o abstracto, pero siempre tener clara la búsqueda.    
+            p(data-aos="fade-down") El concepto es una forma de #[b estimular la mente] y de abrir nuevas direcciones al proceso de #[b desarrollo de la colección], el creativo debe ser honesto con el tema, que le interese, estimule e inspire; el tema puede ser conceptual o abstracto, pero siempre tener clara la búsqueda.    
 
             p(data-aos="fade-down") El resultado debe arrojar unas prendas novedosas, modernas, actuales, favorecedoras, de buen aspecto, que suscitan el entusiasmo para que el usuario apruebe y quiera usar la nueva colección.
 
@@ -272,53 +271,55 @@
 
             h4.mt-5.text-center.rosa ¿Se venderán mis creaciones?
 
-    SlyderA.mt-5(data-aos="slide-left")
-      .row.justify-content-center.align-items-center
-        .col-lg-12
-          img.img-a.img-t(src='@/assets/ilustraciones/img9.jpg', alt='')
+    .row.justify-content-center.align-items-center.bg-color-2.pb-3  
 
-      .row.justify-content-center.align-items-center
-        .col-lg-6.my-3
-          .BorTit #[b Figura 1] Entrega de marca. Aprendiz Lisdey z Ortiz. Programa Diseño para la Industria de la moda.        
-          img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img10.jpg', alt='')
-          figcaption.mt-3 Fuente: SENA (2020).
+      SlyderA(data-aos="slide-left")
+        .row.justify-content-center.align-items-center
+          .col-lg-12
+            img.img-a.img-t(src='@/assets/ilustraciones/img9.jpg', alt='')
 
-        .col-lg-6.my-3
-          .BorTit #[b Figura 2] Exposición Teoría de la forma. Programa Diseño para la Industria de la moda.        
-          img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img11.jpg', alt='')
-          figcaption.mt-3 Fuente: SENA (2020).
+        .row.justify-content-center.align-items-center
+          .col-lg-6.my-3
+            .BorTit #[b Figura 1] Entrega de marca. Aprendiz Lisdey z Ortiz. Programa Diseño para la Industria de la moda.        
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img10.jpg', alt='')
+            figcaption.mt-3 Fuente: SENA (2020).
 
-      .row.justify-content-center.align-items-center
-        .col-lg-6.my-3
-          .BorTit #[b Figura 3] Exposición de marca. Aprendiz Liz Bohorquez. Programa Diseño para la Industria de la moda.       
-          img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img12.jpg', alt='')
-          figcaption.mt-3 Fuente: SENA (2020).
+          .col-lg-6.my-3
+            .BorTit #[b Figura 2] Exposición Teoría de la forma. Programa Diseño para la Industria de la moda.        
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img11.jpg', alt='')
+            figcaption.mt-3 Fuente: SENA (2020).
 
-        .col-lg-6.my-3
-          .BorTit #[b Figura 4] Exposición de marca. Natalia Andrea Osorio. Programa Diseño para la Industria de la moda.       
-          img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img13.jpg', alt='')
-          figcaption.mt-3 Fuente: SENA (2020).
+        .row.justify-content-center.align-items-center
+          .col-lg-6.my-3
+            .BorTit #[b Figura 3] Exposición de marca. Aprendiz Liz Bohorquez. Programa Diseño para la Industria de la moda.       
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img12.jpg', alt='')
+            figcaption.mt-3 Fuente: SENA (2020).
 
-      .row.justify-content-center.align-items-center
-        .col-lg-6.my-3
-          .BorTit #[b Figura 5] Exposición de marca. Aprendiz Cristian Dario Quintero Bru. Programa Diseño para la Industria de la moda.     
-          img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img14.jpg', alt='')
-          figcaption.mt-3 Fuente: SENA (2020).
+          .col-lg-6.my-3
+            .BorTit #[b Figura 4] Exposición de marca. Natalia Andrea Osorio. Programa Diseño para la Industria de la moda.       
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img13.jpg', alt='')
+            figcaption.mt-3 Fuente: SENA (2020).
 
-        .col-lg-6.my-3
-          .BorTit #[b Figura 6] Exposición de marca. Gloria Eugenia Gutiérrez Palacio. Programa Diseño para la Industria de la moda.       
-          img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img15.jpg', alt='')
-          figcaption.mt-3 Fuente: SENA (2020). 
+        .row.justify-content-center.align-items-center
+          .col-lg-6.my-3
+            .BorTit #[b Figura 5] Exposición de marca. Aprendiz Cristian Dario Quintero Bru. Programa Diseño para la Industria de la moda.     
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img14.jpg', alt='')
+            figcaption.mt-3 Fuente: SENA (2020).
+
+          .col-lg-6.my-3
+            .BorTit #[b Figura 6] Exposición de marca. Gloria Eugenia Gutiérrez Palacio. Programa Diseño para la Industria de la moda.       
+            img.img-a.img-t.mt-3(src='@/assets/ilustraciones/img15.jpg', alt='')
+            figcaption.mt-3 Fuente: SENA (2020). 
 
     Separador                             
       
     #t_1_6.titulo-segundo(data-aos="fade-right")
       h2 1.6  Métodos para generar ideas
     .row.justify-content-center.align-items-stretch.mt-5
-      .col-lg-4.px-0(data-aos="flip-down")
-        img.img-a(src='@/assets/ilustraciones/img16.png', alt='')
+      .col-lg-4.bg-img-5(data-aos="flip-down")
+        
       .col-lg-8.bg-color-3.p-5(data-aos="flip-down")
-        p(data-aos="fade-down").mt-4
+        p(data-aos="fade-down").mb-0
           span(style='color:#00223D') Existen métodos para 
           span(style='color:#BF3976') generar ideas 
           span(style='color:#00223D') como número de personas, cada una puede organizar su proceso de acuerdo al nivel educativo que tenga, a la sociedad en la que se desarrolla y al medio en que se mueve; 
@@ -326,7 +327,7 @@
           span(style='color:#00223D') siempre y cuando se tengan claros los resultados de búsqueda, por lo tanto se pueden sugerir: fotocopias y muestras de tejidos (pared), Block de dibujos (imágenes, tejidos y adornos), Mood-board, Story Board o Panel temático y lluvia de ideas. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
-      .col-12.bg-img-5.p-4
+      .col-12.bg-img-5-1.p-4
         .row.justify-content-center.align-items-center(data-aos="flip-down")       
           .col-lg-5.img-bottom
             h3.mb-4(data-aos="fade-down").text-center.card-p-1.p-4 Moodboard. Seivewright, Simon (2013).
@@ -355,45 +356,47 @@
 
       span Sorger et al., 2007, p. 8.
 
-    p.mt-5(data-aos="fade-down")
-      span(style='color:#00223D') En el momento de comenzar el 
-      span(style='color:#BF3976') proceso de desarrollo creativo
-      span(style='color:#00223D') , es bien importante tener a la mano las herramientas necesarias, que permitan
-      span(style='color:#BF3976') explorar todas las posibilidades 
-      span(style='color:#00223D') que se puedan ocurrir para 
-      span(style='color:#BF3976') plasmar ideas en las prendas 
-      span(style='color:#00223D') que formarán parte de la colección. En esta fase no se debe descartar nada, porque incluso más adelante esto puede servir para descubrir el 
-      span(style='color:#BF3976') potencial de una idea 
-      span(style='color:#00223D') aplicada a un nuevo desarrollo.
-
-    img.img-a.img-t.mt-5(data-aos="slide-right")(src='@/assets/ilustraciones/img18.svg', alt='')
-
-    .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
-      .col-lg-5.p-1
+    .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
+      .col-12.bg-color10.p-5.br-radius
         p(data-aos="fade-down")
-          span(style='color:#00223D') El desarrollo creativo siempre debe tener presente el enfoque o la dirección hacia donde está proyectado el proceso, 
-          span(style='color:#BF3976') vestir el cuerpo es la esencia, sin olvidar los complementos que pasan a formar parte del engranaje 
-          span(style='color:#00223D') como son:
-        p(data-aos="fade-down") Los detalles, las proporciones, las líneas, la silueta, los colores, el tejido y las texturas.  El control que se hace de todos estos elementos, es fundamental al momento de desarrollar una colección.
-        h3.text-center.text-color.mt-5 ¡Dios se encuentra en los detalles!
+          span(style='color:#00223D') En el momento de comenzar el 
+          span(style='color:#BF3976') proceso de desarrollo creativo
+          span(style='color:#00223D') , es bien importante tener a la mano las herramientas necesarias, que permitan
+          span(style='color:#BF3976') explorar todas las posibilidades 
+          span(style='color:#00223D') que se puedan ocurrir para 
+          span(style='color:#BF3976') plasmar ideas en las prendas 
+          span(style='color:#00223D') que formarán parte de la colección. En esta fase no se debe descartar nada, porque incluso más adelante esto puede servir para descubrir el 
+          span(style='color:#BF3976') potencial de una idea 
+          span(style='color:#00223D') aplicada a un nuevo desarrollo.
 
-      .col-lg-5
-        img.img-a.img-t(data-aos="slide-left")(src='@/assets/ilustraciones/img19.png', alt='')
+        img.img-a.img-t.mt-5(data-aos="slide-right")(src='@/assets/ilustraciones/img18.svg', alt='')
 
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/_NoaHQFC2rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-down")
-      .col-lg-8.p-4.bg-color-3
-        .row.justify-content-center.align-items-center(data-aos="fade-down")
-          .col-lg-6
-            p.mb-0.p-2 Torales, E. y Meyer, M. (s.f.). Elementos y principios del diseño: Diseño de Indumentaria Urbana I.    
-          .col-lg-6
-            a.anexo.a-bg-2(:href="obtenerLink('/downloads/Anexo_5_Diccionario_de_la_moda.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p #[b Material complementario.] Diseño de Indumentaria Urbana I
+        .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
+          .col-lg-5.p-1
+            p(data-aos="fade-down")
+              span(style='color:#00223D') El desarrollo creativo siempre debe tener presente el enfoque o la dirección hacia donde está proyectado el proceso, 
+              span(style='color:#BF3976') vestir el cuerpo es la esencia, sin olvidar los complementos que pasan a formar parte del engranaje 
+              span(style='color:#00223D') como son:
+            p(data-aos="fade-down") Los detalles, las proporciones, las líneas, la silueta, los colores, el tejido y las texturas.  El control que se hace de todos estos elementos, es fundamental al momento de desarrollar una colección.
+            h3.text-center.text-color.mt-5 ¡Dios se encuentra en los detalles!
+
+          .col-lg-5
+            img.img-a.img-t(data-aos="slide-left")(src='@/assets/ilustraciones/img19.png', alt='')
+
+        figure.mt-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/_NoaHQFC2rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-down")
+          .col-lg-8.p-4
+            .row.justify-content-center.align-items-center(data-aos="fade-down")
+              .col-lg-6
+                p.mb-0.p-2 Torales, E. y Meyer, M. (s.f.). Elementos y principios del diseño: Diseño de Indumentaria Urbana I.    
+              .col-lg-6
+                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_5_Diccionario_de_la_moda.pdf')" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/template/icono-pdf.svg")
+                  .anexo__texto
+                    p #[b Material complementario.] Diseño de Indumentaria Urbana I
 
     Separador                             
       
@@ -432,8 +435,8 @@
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
                     p #[b Anexo 4.] Cuerpos ideales         
-      .col-lg-6.mar-col
-        img.img-a(src='@/assets/ilustraciones/img22.png', alt='')
+      .col-lg-6.bg-img-11
+        
 
     Separador                             
       
@@ -463,7 +466,7 @@
             p(data-aos="fade-down") Revise el siguiente contenido para ampliar la información.
             .row.justify-content-center.align-items-center.mt-5
               .col-lg-8           
-                a.anexo.a-bg-2(:href="obtenerLink('/downloads/Anexo_7_Proporcion_y_linea.pdf')" target="_blank")
+                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_7_Proporcion_y_linea.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -498,18 +501,18 @@
       .col-12.bg-img-7.p-5.mt-5
         p.text-center.mt-4 Realice la lectura del siguiente documento para complementar la información de este tema.
         .row.justify-content-center.align-items-center(data-aos="flip-down")       
-          .col-lg-5.my-3
+          .col-lg-6.my-3
             .row.justify-content-center.align-items-center
-              .col-lg-8           
-                a.anexo.a-bg-2(:href="obtenerLink('/downloads/Anexo_8_Tejido_color_y_textura.pdf')" target="_blank")
+              .col-lg-10           
+                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_8_Tejido_color_y_textura.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
                     p #[b Material complementario.] Tejido, color y textura   
-          .col-lg-5.my-3
+          .col-lg-6.my-3
             .row.justify-content-center.align-items-center
-              .col-lg-8           
-                a.anexo.a-bg-2(:href="obtenerLink('/downloads/Anexo_9_Desarrollo_Concepto_Moda_Color_Santiago_Gomez.pdf')" target="_blank")
+              .col-lg-10           
+                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_9_Desarrollo_Concepto_Moda_Color_Santiago_Gomez.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -531,8 +534,8 @@
 
         p(data-aos="fade-down") En el momento de seleccionar un tejido es esencial tener en cuenta los beneficios que se ven reflejados en la apariencia, sensación, color y textura, así los tejidos pueden ser intervenidos de formas distintas, se pueden teñir, bordar y transformar su estructura para aprovechar todas las posibilidades que ofrecen las telas en el desarrollo de colecciones. 
         
-      .col-lg-7.px-0.mx-0(data-aos="fade-left")
-        img.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img29.png', alt='')
+      .col-lg-7.bg-img-12(data-aos="fade-left")
+
     .row.justify-content-center.align-items-stretch(data-aos="fade-left")
       .col-lg-12.card-color-2.p-5
         .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -542,8 +545,8 @@
             p(data-aos="fade-down") Revise el documento para profundizar conocer más sobre tejidos y texturas.            
           .col-lg-4(data-aos="fade-down") 
             .row.justify-content-center.align-items-center
-              .col-lg-8           
-                a.anexo.a-bg-2(:href="obtenerLink('/downloads/Anexo_10_El_tejido.pdf')" target="_blank")
+              .col-lg-11
+                a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_10_El_tejido.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
                   .anexo__texto
@@ -559,8 +562,7 @@
       span(style='color:#00223D') , regidos por normas que lo hacen comprensible para aquellas personas que dominan una determinada área. Es el caso de los que trabajan en el mundo de la moda, que viene cargada de un sinnúmero de simbolismos que le permiten al desarrollador de moda #[b entender las ideologías] provenientes de la estructura e ideas que componen una colección.  
 
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-left")
-      .col-lg-6.px-0.mx-0(data-aos="fade-left")
-        img.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img30.png', alt='')
+      .col-lg-6.bg-img-13(data-aos="fade-left")
       .col-lg-6.card-color-1.p-5
         p.mt-4(data-aos="fade-down") Las habilidades utilizadas para el dibujo son adquiridas a partir de unas técnicas que le permiten al dibujante 
           span(style='color:#BF3976') desarrollar destrezas para la interpretación gráfica de figurines y roperos
@@ -574,37 +576,31 @@
         SlyderA
           .row.justify-content-center.align-items-center.p-5
             .col-lg-11.img-bg-1.p-4
-              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img31.svg', alt='')
+              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img32.jpg', alt='')
             .col-lg-11.img-bg-2.p-2
               p.text-white.text-center.mb-0 Dibujo plano de prendas de vestir. Naoki Watanabe (2009).
 
           .row.justify-content-center.align-items-center.p-5
             .col-lg-11.img-bg-1.p-4
-              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img32.svg', alt='')
+              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img33.jpg', alt='')
             .col-lg-11.img-bg-2.p-2
               p.text-white.text-center.mb-0 Dibujo plano de prendas de vestir. Naoki Watanabe (2009).
 
           .row.justify-content-center.align-items-center.p-5
             .col-lg-11.img-bg-1.p-4
-              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img33.svg', alt='')
+              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img34.jpg', alt='')
             .col-lg-11.img-bg-2.p-2
               p.text-white.text-center.mb-0 Dibujo plano de prendas de vestir. Naoki Watanabe (2009).
 
           .row.justify-content-center.align-items-center.p-5
             .col-lg-11.img-bg-1.p-4
-              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img34.svg', alt='')
+              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img35.jpg', alt='')
             .col-lg-11.img-bg-2.p-2
               p.text-white.text-center.mb-0 Dibujo plano de prendas de vestir. Naoki Watanabe (2009).
 
           .row.justify-content-center.align-items-center.p-5
             .col-lg-11.img-bg-1.p-4
-              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img35.svg', alt='')
-            .col-lg-11.img-bg-2.p-2
-              p.text-white.text-center.mb-0 Dibujo plano de prendas de vestir. Naoki Watanabe (2009).
-
-          .row.justify-content-center.align-items-center.p-5
-            .col-lg-11.img-bg-1.p-4
-              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img36.svg', alt='')
+              img.img-a.img-t(data-aos="fade-left")(src='@/assets/ilustraciones/img36.jpg', alt='')
             .col-lg-11.img-bg-2.p-2
               p.text-white.text-center.mb-0 Dibujo plano de prendas de vestir. Zeshu-Takamura (2007).
 
@@ -616,7 +612,7 @@
             .row.justify-content-center.align-items-center(data-aos="flip-down")       
           .col-lg-5.my-3
             .row.justify-content-center.align-items-center
-              .col-lg-8           
+              .col-lg-11          
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_D_Desarrollo_de_Concepto_de_Moda_y_Color_por_Patricia_Baldovino.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")

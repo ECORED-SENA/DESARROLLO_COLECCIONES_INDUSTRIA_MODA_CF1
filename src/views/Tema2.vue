@@ -39,20 +39,24 @@
               span(style='color:#FFC82E') estudiar las transformaciones del vestuario y de la moda 
               span(style='color: #fff') a través del tiempo, entendiendo que el vestido es el reflejo de los componentes del contexto histórico. Entender la evolución de la moda facilita la comprensión del desarrollo de la cultura material en las sociedades.
 
-      .col-lg-6.px-0
-        img.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img39.png', alt='')
+      .col-lg-6.bg-img-14
 
-    p(data-aos="fade-down").mt-5 #[b Video.] Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)
+    TabsB.color-acento-contenido.mt-5
+      .py-4.py-md-5(titulo="The many shapes and sizes of Catwalk")
+        .row.justify-content-center.align-items-center
+          .col-lg-11
+            p(data-aos="fade-down") #[b Video.] Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)          
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/rKegRnTimFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/rKegRnTimFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
-
-    p(data-aos="fade-down").mt-5 #[b Video.] The many shapes and sizes of Catwalk de Rijksmuseum – Facebook (Rijksmuseum, 2016)
-
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Frijksmuseum%2Fvideos%2F10156670232395177%2F&show_text=false&width=400" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+      .py-4.py-md-5(titulo="100 Years of Fashion: Wedding Dresses ")
+        .row.justify-content-center.align-items-center
+          .col-lg-11
+            p(data-aos="fade-down") #[b Video.] The many shapes and sizes of Catwalk de Rijksmuseum – Facebook (Rijksmuseum, 2016)          
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Frijksmuseum%2Fvideos%2F10156670232395177%2F&show_text=false&width=400" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
     Separador                             
       
@@ -60,8 +64,7 @@
       h2 2.2  Culturas antiguas: Egipto, Mesopotamia, Grecia, Roma 
 
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
-      .col-lg-6.px-0
-        img.img-a(data-aos="fade-right")(src='@/assets/ilustraciones/img40.png', alt='')
+      .col-lg-6.bg-img-15
       .col-lg-6.p-5.bg-color-4
         p.mt-4(data-aos="fade-down") Desde los inicios de los tiempos el ser humano ha buscado 
           span(style='color:#BF3976') cubrir su cuerpo
@@ -71,17 +74,24 @@
           span(style='color:#BF3976') Cada cultura desarrolló ricas técnicas y tecnologías para la fabricación de prendas, joyas, complementos y maquillaje
           span(style='color:#00223D') , logrando la transformación de las materias primas en sorprendentes atuendos.<br> <i>(Geringer, Nieves & Soto, 2001).</i>
 
-    p(data-aos="fade-down").mt-5 #[b Video.] Departamento de Historia del Instituto Nacional,  Antiguo Egipto - La moda
+    TabsB.color-acento-contenido.mt-5
+      .py-4.py-md-5(titulo="Antiguo Egipto - La moda")
+        .row.justify-content-center.align-items-center
+          .col-lg-11
+            p(data-aos="fade-down") #[b Video.] Departamento de Historia del Instituto Nacional,  Antiguo Egipto - La moda
 
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/R5xXX92AkmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/R5xXX92AkmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-    p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda, Cap 1. La elegancia romana
+      .py-4.py-md-5(titulo="La elegancia romana")
+        .row.justify-content-center.align-items-center
+          .col-lg-11
+            p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda, Cap 1. La elegancia romana
 
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/k1VTlq7B8RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/k1VTlq7B8RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
 
     Separador                             
       
@@ -99,31 +109,26 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/F9C4PwnBlS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
-    //- p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda, Cap 2. La elegancia romana
-
-    //- figure.mt-5
-    //-   .video
-    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
-
     Separador                             
       
     #t_2_4.titulo-segundo(data-aos="fade-right")
       h2 2.4  Renacimiento - Barroco - Rococó
 
-    .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
-      .col-12.bg-img-9.p-5.pt-0
-        .row.justify-content-start.align-items-stretch(data-aos="flip-down")       
-          .col-lg-5.px-5.mb-5
-            p El Renacimiento, 
-              span(style='color:#BF3976') período de transición 
-              span(style='color:#00223D') entre la edad media y el mundo moderno, comenzó en el siglo XIV y se extendió hasta el siglo XVI. 
+    .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
+      .col-lg-8
+        p El Renacimiento, 
+          span(style='color:#BF3976') período de transición 
+          span(style='color:#00223D') entre la edad media y el mundo moderno, comenzó en el siglo XIV y se extendió hasta el siglo XVI. 
 
-            p En él, el sistema feudal es reemplazado por la economía monetaria y las mercancías de consumo disponibles en un mercado abierto, lo cual permitió el intercambio de telas, prendas de vestir y modas entre ciudades. 
-              span(style='color:#BF3976') Se pasa de la oscuridad a la era de la luz. 
+        p En él, el sistema feudal es reemplazado por la economía monetaria y las mercancías de consumo disponibles en un mercado abierto, lo cual permitió el intercambio de telas, prendas de vestir y modas entre ciudades. 
+          span(style='color:#BF3976') Se pasa de la oscuridad a la era de la luz. 
 
-            p.bg-color-3.p-4.my-5  
-              span(style='color:#005791') La moda empezó a ser un pasatiempo para personas de lujo
-              span(style='color:#00223D') ; ya no existían únicamente las túnicas, se comienza a vestir con varias capas de prendas y entre más capas tuviera una persona, más alta era su posición social.
+        p.bg-color-3.p-4.my-5  
+          span(style='color:#005791') La moda empezó a ser un pasatiempo para personas de lujo
+          span(style='color:#00223D') ; ya no existían únicamente las túnicas, se comienza a vestir con varias capas de prendas y entre más capas tuviera una persona, más alta era su posición social.
+      .col-lg-4.bg-img-16
+    .row.justify-content-center.align-items-stretch
+      .col-12.bg-img-17.p-5
 
     .row.justify-content-center.align-items-center.bg-color-5.mt-5(data-aos="fade-right")
       .col-lg-6.px-0
@@ -146,17 +151,17 @@
       .col-lg-6
         img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img44.svg', alt='')
       .col-lg-6
-        a.anexo.mb-4.mb-lg-0.my-3.a-bg-3(href="https://historiadeltraje.com/category/barroco/" target="_blank")
+        a.anexo.mb-4.mb-lg-0.my-3.a-bg-1(href="https://historiadeltraje.com/category/barroco/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p Página web de Historia del traje (Pozzetti, 2019)   
-        a.anexo.mb-4.mb-lg-0.my-3.a-bg-3(href="http://comunicacioneducativamaster.blogspot.com/" target="_blank")
+        a.anexo.mb-4.mb-lg-0.my-3.a-bg-1(href="http://comunicacioneducativamaster.blogspot.com/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p Blog de Historia del traje (Acosta, 2012).
-        a.anexo.mb-4.mb-lg-0.my-3.a-bg-3(href="https://asainzfashionhistory.tumblr.com/post/154085025148/renacimiento-siglo-xiv-a-xvi" target="_blank")
+        a.anexo.mb-4.mb-lg-0.my-3.a-bg-1(href="https://asainzfashionhistory.tumblr.com/post/154085025148/renacimiento-siglo-xiv-a-xvi" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -189,41 +194,92 @@
           span(style='color:#BF3976') elevada a la categoría de arte. 
           span(style='color:#00223D') Aunque Francia ya había sido líder reconocido de la moda durante el reinado de Luis XIV, el período rococó confirmo la reputación del país como líder de la moda femenina en todo el mundo.
 
-    .row.justify-content-center.align-items-center.mt-5(data-aos="fade-right")
-      .col-12.bg-img-10.px-5.pb-5.pt-0
-        .row(data-aos="flip-down")       
-          .col-lg-5
-            p Este período tiene un final abrupto con la revolución francesa en 1789. La indumentaria femenina va a sufrir cambios drásticos en el período siguiente como una tendencia a renovarse y dejar atrás la artificialidad y el lujo desmedido. Por otra parte, el traje del hombre seguirá una misma línea enriqueciéndose de tipologías de sastrería y prendas del traje militar (Laver, 2005).
+    .row.justify-content-center.align-items-end.bg-img-17.mt-5(data-aos="fade-right")
+      .col-lg-6(data-aos="flip-down")
+        p Este período tiene un final abrupto con la revolución francesa en 1789. La indumentaria femenina va a sufrir cambios drásticos en el período siguiente como una tendencia a renovarse y dejar atrás la artificialidad y el lujo desmedido. Por otra parte, el traje del hombre seguirá una misma línea enriqueciéndose de tipologías de sastrería y prendas del traje militar (Laver, 2005).
 
-            p El vestuario en el Rococó se distinguió por su fantasía, asimetría, grandes volúmenes y finos detalles. Su vistosa belleza estaba acentuada en el uso de tejidos como: satén, atlas, brocados y encajes, generalmente en tonos pastel (Moda del período rococó - Diccionario Textil, s.f.)
-            a.anexo.my-3.a-bg-3.mt-4(href="https://co.pinterest.com/storeevangeline/vestuario-rococ%C3%B3/" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p Imágenes de referencia en Pinterest (Vestuario rococó, s.f.)   
-            a.anexo.my-3.a-bg-3.mb-5(href="http://historiadeltraje.blogspot.com/search/label/20.%20El%20traje%20rococ%C3%B3%201715-1775" target="_blank")
-              .anexo__icono
-                img(src="@/assets/template/icono-link.svg")
-              .anexo__texto
-                p Imágenes de referencia blog historia del traje (Pena, s.f.)
+        p El vestuario en el Rococó se distinguió por su fantasía, asimetría, grandes volúmenes y finos detalles. Su vistosa belleza estaba acentuada en el uso de tejidos como: satén, atlas, brocados y encajes, generalmente en tonos pastel (Moda del período rococó - Diccionario Textil, s.f.)
+        a.anexo.my-3.a-bg-1.mt-4(href="https://co.pinterest.com/storeevangeline/vestuario-rococ%C3%B3/" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p Imágenes de referencia en Pinterest (Vestuario rococó, s.f.)   
+        a.anexo.my-3.a-bg-1(href="http://historiadeltraje.blogspot.com/search/label/20.%20El%20traje%20rococ%C3%B3%201715-1775" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p Imágenes de referencia blog historia del traje (Pena, s.f.)
+      .col-lg-6(data-aos="zoom-in-left")
+        img.img-t.img-a(src='@/assets/ilustraciones/img64.svg', alt='')
+
 
     Separador                             
       
     #t_2_5.titulo-segundo(data-aos="fade-right")
       h2 2.5  Siglos XVIII y XIX 
-    LineaTiempoB.color-secundario.mt-5.bg-color-9.p-5(:datos="datosLineaTiempoB")(data-aos="flip-right")
 
-    p(data-aos="fade-down").mt-5 #[b Video.] Historia de la moda Cap 4 La Revolución– YouTube (Allante, 2007)
+    .row.justify-content-center.align-items-center.mt-5(data-aos="fade-down")       
+      .col-12.bg-img   
+        .timeline
+          .entry(data-aos="fade-down")
+            .title.beat
+              h3.text-center I
+            .body
+              p(data-aos="fade-down").mt-5 Llega la revolución francesa, en la cual los jóvenes conocidos como los hombres Incroyables (increíbles en francés) y las mujeres Merveilleuses (maravillosas en francés), protestaron <b>usando prendas arrugadas y desprolijas</b> como burla a la elegante vida de la corte de Louis XVI (Geringer et al., 2001)  
+              .hr(data-aos="fade-left")
 
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/emerf2WAjrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+          .entry(data-aos="fade-down")
+            .title.beat
+              h3.text-center II
+            .body
+              p(data-aos="fade-down").mt-5 Con la Revolución el <b>liderazgo de la moda pasó a Inglaterra</b>, donde el hombre vestía casaca con cuello ancho y vuelto, calzón hasta la rodilla y sombrero de copa; la mujer abandonó el corsé y la crinolina y se inspiró en la Antigua Grecia, con vestidos largos ajustados con una cinta bajo el pecho.  
+              .hr(data-aos="fade-left")
 
-    p(data-aos="fade-down").mt-5 #[b Video.] Muestra de ropa del siglo XVIII – Museo Vasco de Bilbao YouTube (Museo Vasco de Bilbao, 2018)
+          .entry(data-aos="fade-down")
+            .title.beat
+              h3.text-center III
+            .body
+              p(data-aos="fade-down").mt-5 Luego con la <i>Revolución Industrial</i> (entre la segunda mitad del siglo XVIII y 1840) se producen cambios significativos: se introduce la mecanización en el terreno de las manufacturas textiles, cambios en el tratamiento de los tejidos e incluso la organización social del trabajo; en Inglaterra se estaba produciendo la <b>Revolución Textil</b>, producto de la creación de los colorantes fijos nace una importante industria del paño de algodón lo que conlleva a una Revolución Social, dado que los mercados se llenaron de <b>tejidos con colores vivos y dibujos</b> de gran variedad. 
+              .hr(data-aos="fade-left")
 
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/njZOrgpd8yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+          .entry(data-aos="fade-down")
+            .title.beat
+              h3.text-center IV
+            .body
+              p(data-aos="fade-down").mt-5 Después de <b>1815 la anglomanía invade Europa</b>, pero en <b>1825 volvía el romanticismo</b> y quien más siente estos cambios será el vestido femenino. Ya en pleno siglo XIX la vestimenta estaba bien definida: vestido largo para la mujer y pantalón y chaqueta para el hombre (Fedac, s.f.).  
+              .hr(data-aos="fade-left")
+
+          .entry(data-aos="fade-down")
+            .title.beat
+              h3.text-center V
+            .body
+              p(data-aos="fade-down").mt-5 Durante el siglo XIX <b>la vestimenta varió sus modos de producción</b>. En su primera mitad apareció la mecanización en los procesos de estampación y también se produjeron una serie de mejoras en las máquinas de hilatura y tejeduría.   
+              .hr(data-aos="fade-left")
+
+          .entry(data-aos="fade-down")
+            .title.beat
+              h3.text-center VI
+            .body
+              p(data-aos="fade-down").mt-5 En 1851 Isaac Merrit Singer <b>modernizó las máquinas de coser</b> y en 1856 William Henry Perkin <b>obtuvo la anilina</b>, el primer tinte sintético. Además, este siglo fue testigo del <b>nacimiento de la confección tal y como se entiende hoy</b> en día, a gran escala, y de la alta costura, creada por Charles Frederick Worth en 1856, año en que abrió su Maison en París, en la que presentaba sus colecciones de temporada (Laver, 2005)  
+              .hr(data-aos="fade-left")                                                        
+
+    TabsB.color-acento-contenido.mt-5
+      .py-4.py-md-5(titulo="La Revolución")
+        .row.justify-content-center.align-items-center
+          .col-lg-11
+            p(data-aos="fade-down") #[b Video.] Historia de la moda Cap 4 La Revolución– YouTube (Allante, 2007)
+
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/emerf2WAjrw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+      .py-4.py-md-5(titulo="Museo Vasco de Bilbao")
+        .row.justify-content-center.align-items-center
+          .col-lg-11
+            p(data-aos="fade-down") #[b Video.] Muestra de ropa del siglo XVIII – Museo Vasco de Bilbao YouTube (Museo Vasco de Bilbao, 2018)
+
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/njZOrgpd8yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     .row.justify-content-center.align-items-center.bg-color-10.p-4.mt-3(data-aos="fade-left")
       .col-lg-6(data-aos="fade-down")
@@ -235,7 +291,7 @@
       .col-lg-6.my-2
         .row.justify-content-center.align-items-center
           .col-lg-10           
-            a.anexo.mb-4.mb-lg-0.my-3.a-bg-3(:href="obtenerLink('/downloads/Anexo_k_Moda_desde_siglo_XVIII_siglo_XX_(Instituto_indumentaria_Kioto_2004).pdf')" target="_blank")
+            a.anexo.mb-4.mb-lg-0.my-3.a-bg-1(:href="obtenerLink('/downloads/Anexo_k_Moda_desde_siglo_XVIII_siglo_XX_(Instituto_indumentaria_Kioto_2004).pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -243,7 +299,7 @@
       .col-lg-6.my-2
         .row.justify-content-center.align-items-center
           .col-lg-10           
-            a.anexo.mb-4.mb-lg-0.my-3.a-bg-3(href="http://historiadeltraje.blogspot.com/p/httpmediateca.html" target="_blank")
+            a.anexo.mb-4.mb-lg-0.my-3.a-bg-1(href="http://historiadeltraje.blogspot.com/p/httpmediateca.html" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -259,34 +315,33 @@
     .tarjeta.tarjeta--gris.p-4.mt-5      
       LineaTiempoC.color-acento-contenido
         .row.justify-content-center.align-items-center(titulo="Antes de 1900")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img49.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p En los siglos anteriores la moda cambia lentamente, llegado el 
               span(style='color:#BF3976') siglo XX 
               span(style='color:#00223D') ocurre todo lo contrario, ya que este se caracteriza por sus 
               span(style='color:#BF3976') cambios constantes en la cultura material de la humanidad
               span(style='color:#00223D') , la moda dará fe de ello (Geringer et al., 2001).
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/channel/UCrKE6lsllHfJgcUexz3BBhA" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6             
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/channel/UCrKE6lsllHfJgcUexz3BBhA" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)]
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/channel/UCB00OlcXYufo2QvmN9QtATA" target="_blank")
+              .col-lg-6            
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/channel/UCB00OlcXYufo2QvmN9QtATA" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Evolución década tras década, canal de YouTube History of Fashion (Vintage2Versace, 2014)]                    
 
         .row.justify-content-center.align-items-center(titulo="1900 - 1910")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img50.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Nacimiento de la alta costura Mundial (Hasta 1910)
             p Inicia el sigo XX con la alta costura, la moda (al igual que el arte) sigue sus propias reglas en cuanto a la forma, interpretando el mundo de las personas por medio del vestuario (Lehnert, 2000), con la llegada de los grandes modistos como Charles Frederick Worth (su pionero) 
               span(style='color:#BF3976') se sustituyen
@@ -297,79 +352,76 @@
               span(style='color:#BF3976') prendas más funcionales 
               span(style='color:#00223D') como faldas largas y blazers (Cardenas, 2017).
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://sites.google.com/site/secretosdelamodaar/historia-de-la-moda/moda-siglo-xx#TOC-D-cadas-:-1900-1910" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6               
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://sites.google.com/site/secretosdelamodaar/historia-de-la-moda/moda-siglo-xx#TOC-D-cadas-:-1900-1910" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Blog Secretos de moda (Moda siglo XX - Secretos de la moda, s.f.)]  
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.itfashion.com/moda/a-cada-decada-su-tendencia-asi-se-resume-un-siglo-de-moda/" target="_blank")
+              .col-lg-6               
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.itfashion.com/moda/a-cada-decada-su-tendencia-asi-se-resume-un-siglo-de-moda/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Página web It Fashion (Cardenas, 2017)]
                     
         .row.justify-content-center.align-items-center(titulo="1910-1920")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img48.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Lo que trajo la Primera Guerra (1910-1920) 
             p 
               span(style='color:#BF3976') Entrada la primera guerra mundial se producen cambios en los atuendos tanto femeninos como masculinos. 
               span(style='color:#00223D') Los hombres en su mayoría, voluntaria o involuntariamente se alistaron, por lo cual llevaban siempre uniforme. Por su parte el vestuario cotidiano femenino evidencia notables cambios debido a las restricciones de tejidos impuestas por la guerra, impulsando la recuperación de los vestidos estrechos y lánguidos (Lehnert, 2000; Pena, s.f.)
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=ViNDmCX3DOw&feature=youtu.be" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6             
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=ViNDmCX3DOw&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video  Fashion History]. 1900-1920 (Hong, 2019)   
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=7IP5zAefiiQ&feature=youtu.be" target="_blank")
+              .col-lg-6               
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=7IP5zAefiiQ&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. 100 Years of French Fashion | Glamour – YouTube (Glamour, 2018)                                
 
         .row.justify-content-center.align-items-center(titulo="1920-1930")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img51.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p La postguerra de la Primera Guerra Mundial (1920-1930)
             p Luego de la guerra, la felicidad y el desborde, 
               span(style='color:#BF3976') los años veinte traen consigo la democratización de la moda. 
               span(style='color:#00223D') Las nuevas tecnologías permitieron bajar los costos de la confección y el acceso a materiales textiles. El vestuario femenino es el reflejo del nacimiento de una nueva mujer, la cual ya tenía piernas para pasear y brazos para conducir automóviles. Mientas que el vestuario masculino no manifiesta mayores cambios que a nivel textil (Geringer et al., 2001; Lehnert, 2000).
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=h8XQtzswhTU&feature=youtu.be" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6             
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=h8XQtzswhTU&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. Los felices años 20 Documental – YouTube (JJlife’s, 2016)   
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=r7OXmYZ0yC8&feature=youtu.be" target="_blank")
+
+              .col-lg-6             
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=r7OXmYZ0yC8&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. Música década 1920-1930 – YouTube (Madrid, 2018)  
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=5YdaEuxsHjo&feature=youtu.be" target="_blank")
+              .col-lg-6            
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=5YdaEuxsHjo&feature=youtu.be" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. Las Flappers de 1920 – YouTube (Persefone Rest In Peace, 2018)                      
 
         .row.justify-content-center.align-items-center(titulo="1930-1940")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img52.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Cae la bolsa de valores de Nueva York (1930-1940)
             p 
               span(style='color:#BF3976') La caída de la bolsa de valores de Nueva York 
@@ -379,18 +431,18 @@
               span(style='color:#BF3976') las mujeres vuelvan a la costura casera
               span(style='color:#00223D') . Durante esta década el talle de las mujeres vuelve a su sitio (la cintura), reaparecen las mangas y se populariza el uso de pantalones (Cardenas, 2017; Geringer et al., 2001; Lehnert, 2000).
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=9b8DdMHLzEU" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6             
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=9b8DdMHLzEU" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. 1930 Fashion Show – YouTube (CountDisco1, 2009)
 
         .row.justify-content-center.align-items-center(titulo="1940-1950")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img53.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Impactos de la Segunda Guerra Mundial (1940-1950)
             p 
               span(style='color:#BF3976') La segunda guerra mundial 
@@ -404,50 +456,49 @@
               span(style='color:#BF3976') desarrollo de prendas de vestir austeras 
               span(style='color:#00223D') (Geringer et al., 2001; Lehnert, 2000).
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.pinterest.es/aliciapalmira/moda-años-40/" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6              
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.pinterest.es/aliciapalmira/moda-años-40/" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Imágenes]. Moda años 40 – Pinterest (Moda años 40, s.f.)
 
         .row.justify-content-center.align-items-center(titulo="1950-1960")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img54.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p La postguerra de la Segunda Guerra Mundial (1950-1960)
             p Una vez finalizada la guerra se respira un aire de confianza y tranquilidad, 
               span(style='color:#BF3976') la moda por primera vez en la historia ofrece un abanico de posibilidades para los diferentes tipos de personalidades, actividades y clases sociales
               span(style='color:#00223D') . El #[i New Look] de Cristian Dior se populariza entre las mujeres, luciendo nuevamente glamurosas y femeninas, de igual manera se utilizan todo tipo de pantalones y mezclas entre prendas de vestir de acuerdo a la ocasión de uso. La moda de los jóvenes es influenciada por los artistas de la pantalla grande, los hombres utilizan trajes más desestructurados y frescos (Cárdenas, 2017; Geringer et al., 2001; Lehnert, 2000).
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/playlist?list=PLEE61EDB90F0AA88F" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6               
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/playlist?list=PLEE61EDB90F0AA88F" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. Canal de YouTube de Chanel (Chanel, s.f.)
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=4LC5VbEJm6I" target="_blank")
+              .col-lg-6              
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=4LC5VbEJm6I" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. Coco Chanel vintage fashion shows – YouTube (Dyoniss99, 2010) 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
+
+              .col-lg-6            
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)                                       
 
         .row.justify-content-center.align-items-center(titulo="1960-1970")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img55.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Años 60’s. (1960-1970)
             p 
               span(style='color:#BF3976') La moda 
@@ -465,18 +516,18 @@
               span(style='color:#BF3976') estética futurista 
               span(style='color:#00223D') del momento (Cardenas, 2017; Geringer et al., 2001; Laver, 2005; Lehnert, 2000)
 
-            .row
-              .col-lg-8               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
+            .row.justify-content-center.align-items-center
+              .col-lg-6            
+                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
                     p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)               
 
         .row.justify-content-center.align-items-center(titulo="1970-1980")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img56.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Años 70’s (1970-1980)
             p La politización de la vida pública, evidente en las luchas contra las carreras armamentistas de las potencias mundiales y el crecimiento de la ecología, en los años 70 dio como resultado 
               span(style='color:#BF3976') la idea de nuevas formas de vida
@@ -486,9 +537,9 @@
 
 
         .row.justify-content-center.align-items-center(titulo="1980-1990")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img57.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Años 80’s (1980-1990)
             p 
               span(style='color:#BF3976') La caída de muro de Berlín
@@ -502,9 +553,9 @@
 
 
         .row.justify-content-center.align-items-center(titulo="1990-2000")
-          .col-md-3
+          .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img58.svg', alt='')
-          .col-md-7.mb-4.mb-md-0
+          .col-8.mt-4
             p Años 90’s (1990-2000)
             p Se acerca el fin del siglo XX, el panorama mundial se debate entre la recesión, las guerras y los nacionalismos; y la globalización se hace casi imposible de seguir a nivel político, cultural y tecnológico. El mundo es influenciado por los medios informativos y de comunicación, las marcas parecen ser más importantes que los productos mismos. En cuanto a la moda, 
               span(style='color:#BF3976') el abanico de posibilidades es casi infinito
@@ -516,13 +567,37 @@
       
     #t_2_7.titulo-segundo(data-aos="fade-right")
       h2 2.7  La moda en el siglo XXI 
-    p(data-aos="fade-down") El nuevo milenio trae consigo la revolución de las tecnologías, actualmente se habla de la cuarta revolución industrial o industria 4.0 (Peña, 2019). 
 
-    p(data-aos="fade-down") El mundo va a una velocidad nunca antes registrada e internet posibilita la inmediatez de la comunicación. Los procesos productivos industriales se han globalizado, lo que permite trabajar cada una de sus faces desde diferentes lugares del mundo (Riello, 2012). 
+    .row.justify-content-center.align-items-stretch.mt-5
+      .col-lg-6.bg-img-teme-1-6(data-aos="fade-right")    
+      .col-lg-6.bg-img-teme-1-7.p-5(data-aos="fade-left") 
+        .row.justify-content-center.align-items-center(data-aos="flip-down")       
+          .col-lg-11                       
+            .list.mt-4
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span El nuevo milenio trae consigo la revolución de las tecnologías, actualmente se habla de la cuarta revolución industrial o industria 4.0 (Peña, 2019). 
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span El mundo va a una velocidad nunca antes registrada e internet posibilita la inmediatez de la comunicación. Los procesos productivos industriales se han globalizado, lo que permite trabajar cada una de sus faces desde diferentes lugares del mundo (Riello, 2012). 
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span Se conciben, diseñan, producen y comercializan colecciones de vestuario en menos de 18 días, a lo que se le conoce como moda rápida (Salcedo, 2014). 
+            .list.mt-3
+              .list__item
+                  .list__item__icon
+                      img(src="@/assets/ilustraciones/v1.svg", alt="").img-icon 
+              .list__txt 
+                  span La moda es concebida como un sistema, en el que confluyen realidad y conceptos, dando más importancia a las tiendas que a las fábricas, el producto no es más que un vehículo de comunicación y reflejo de identidades globalizadas (Riello, 2012).
 
-    p(data-aos="fade-down") Se conciben, diseñan, producen y comercializan colecciones de vestuario en menos de 18 días, a lo que se le conoce como moda rápida (Salcedo, 2014). 
-
-    p(data-aos="fade-down") La moda es concebida como un sistema, en el que confluyen realidad y conceptos, dando más importancia a las tiendas que a las fábricas, el producto no es más que un vehículo de comunicación y reflejo de identidades globalizadas (Riello, 2012).
 
     TabsB.color-acento-contenido.mt-5
       .py-4.py-md-5.bg-color-11.p-4(titulo="Concepción futurista" :icono="require('@/assets/ilustraciones/img59.svg')")
@@ -670,13 +745,13 @@
 
     .row.justify-content-center.align-items-stretch.mt-5
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=Nxojjjb-pqM" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Nxojjjb-pqM" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. MUJER Y MODA EN EL SIGLO XXI – YouTube (Carchano, 2015)   
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="http://www.area-documental.com/player.php?titulo=The%20True%20Cost" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="http://www.area-documental.com/player.php?titulo=The%20True%20Cost" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -684,39 +759,39 @@
                   
     .row.justify-content-center.align-items-stretch.mt-4
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=w3zW24xEnNY" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=w3zW24xEnNY" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Industria Textil y Moda 4.0 - Presentación Innovation Fashion Forum – YouTube (Farias, 2019a)   
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=zJg8k5-QJOw" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=zJg8k5-QJOw" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Innovación en la industria textil – YouTube (Fundación Pro Tejer, 2018)      
     .row.justify-content-center.align-items-stretch.mt-4
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=id9qip1mWZM" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=id9qip1mWZM" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Moda 4.0 para Dummies - Colombiamoda 2019- YouTube (Inexmoda & Bena, 2019)   
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/watch?v=K2cOViIZWD8" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=K2cOViIZWD8" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Industria 4.0 "Cambiando esquemas y creando nuevas oportunidades" | Nasser Mohamed | TEDxUANL – YouTube (Mohamed & TEDx Talks, 2020)  
     .row.justify-content-center.align-items-stretch.mt-4
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="https://www.youtube.com/c/inexmoda/videos" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/c/inexmoda/videos" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Canal de YouTube Inxmoda (Inexmoda, s.f.)   
       .col-lg-5       
-        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-3(href="http://bloshka.info/category/fashion/" target="_blank")
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="http://bloshka.info/category/fashion/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -727,40 +802,7 @@
 <script>
 export default {
   name: 'Tema2',
-  data: () => ({
-    datosLineaTiempoB: [
-      {
-        texto:
-          'Llega la revolución francesa, en la cual los jóvenes conocidos como los hombres Incroyables (increíbles en francés) y las mujeres Merveilleuses (maravillosas en francés), protestaron <b>usando prendas arrugadas y desprolijas</b> como burla a la elegante vida de la corte de Louis XVI (Geringer et al., 2001)',
-        icono: require('@/assets/ilustraciones/i.svg'),
-      },
-      {
-        texto:
-          'Con la Revolución el <b>liderazgo de la moda pasó a Inglaterra</b>, donde el hombre vestía casaca con cuello ancho y vuelto, calzón hasta la rodilla y sombrero de copa; la mujer abandonó el corsé y la crinolina y se inspiró en la Antigua Grecia, con vestidos largos ajustados con una cinta bajo el pecho.',
-        icono: require('@/assets/ilustraciones/ii.svg'),
-      },
-      {
-        texto:
-          'Luego con la <i>Revolución Industrial</i> (entre la segunda mitad del siglo XVIII y 1840) se producen cambios significativos: se introduce la mecanización en el terreno de las manufacturas textiles, cambios en el tratamiento de los tejidos e incluso la organización social del trabajo; en Inglaterra se estaba produciendo la <b>Revolución Textil</b>, producto de la creación de los colorantes fijos nace una importante industria del paño de algodón lo que conlleva a una Revolución Social, dado que los mercados se llenaron de <b>tejidos con colores vivos y dibujos</b> de gran variedad.',
-        icono: require('@/assets/ilustraciones/iii.svg'),
-      },
-      {
-        texto:
-          'Después de <b>1815 la anglomanía invade Europa</b>, pero en <b>1825 volvía el romanticismo</b> y quien más siente estos cambios será el vestido femenino. Ya en pleno siglo XIX la vestimenta estaba bien definida: vestido largo para la mujer y pantalón y chaqueta para el hombre (Fedac, s.f.).',
-        icono: require('@/assets/ilustraciones/iv.svg'),
-      },
-      {
-        texto:
-          'Durante el siglo XIX <b>la vestimenta varió sus modos de producción</b>. En su primera mitad apareció la mecanización en los procesos de estampación y también se produjeron una serie de mejoras en las máquinas de hilatura y tejeduría. ',
-        icono: require('@/assets/ilustraciones/v.svg'),
-      },
-      {
-        texto:
-          'En 1851 Isaac Merrit Singer <b>modernizó las máquinas de coser</b> y en 1856 William Henry Perkin <b>obtuvo la anilina</b>, el primer tinte sintético. Además, este siglo fue testigo del <b>nacimiento de la confección tal y como se entiende hoy</b> en día, a gran escala, y de la alta costura, creada por Charles Frederick Worth en 1856, año en que abrió su Maison en París, en la que presentaba sus colecciones de temporada (Laver, 2005) ',
-        icono: require('@/assets/ilustraciones/vi.svg'),
-      },
-    ],
-  }),
+  data: () => ({}),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
