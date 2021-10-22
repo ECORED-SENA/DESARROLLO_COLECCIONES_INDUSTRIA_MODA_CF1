@@ -459,3 +459,32 @@ $dot-diameter: 28px
       padding-left: 0px 
     .timeline::before
       background-color: transparent !important         
+
+.header-arrow
+  background: #BF3976
+  position: relative
+  padding: 1rem
+  border-radius: 10px
+
+  header-arrow 
+    margin: 0
+    color:white 
+    text-align: center   
+
+  &--xs 
+    padding: 0
+    height: 8px
+
+.header-arrow:before 
+  content: ''
+  -webkit-transition: all .3s ease
+  transition: all .3s ease
+  border-style: solid
+  border-width: 25px 25px 0px 25px
+  border-color: #BF3976 transparent transparent transparent
+  position: absolute
+  left: 50%
+  transform: translateX(-50%)
+  bottom: -18px
+  margin-top: 0px 
+  z-index: 20      

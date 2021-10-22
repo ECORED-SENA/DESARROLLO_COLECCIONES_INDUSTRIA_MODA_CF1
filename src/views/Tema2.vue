@@ -323,20 +323,6 @@
               span(style='color:#00223D') ocurre todo lo contrario, ya que este se caracteriza por sus 
               span(style='color:#BF3976') cambios constantes en la cultura material de la humanidad
               span(style='color:#00223D') , la moda dará fe de ello (Geringer et al., 2001).
-            .row.justify-content-center.align-items-center
-              .col-lg-6             
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/channel/UCrKE6lsllHfJgcUexz3BBhA" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)]
-
-              .col-lg-6            
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/channel/UCB00OlcXYufo2QvmN9QtATA" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Evolución década tras década, canal de YouTube History of Fashion (Vintage2Versace, 2014)]                    
 
         .row.justify-content-center.align-items-center(titulo="1900 - 1910")
           .col-12
@@ -352,19 +338,7 @@
               span(style='color:#BF3976') prendas más funcionales 
               span(style='color:#00223D') como faldas largas y blazers (Cardenas, 2017).
 
-            .row.justify-content-center.align-items-center
-              .col-lg-6               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://sites.google.com/site/secretosdelamodaar/historia-de-la-moda/moda-siglo-xx#TOC-D-cadas-:-1900-1910" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Blog Secretos de moda (Moda siglo XX - Secretos de la moda, s.f.)]  
-              .col-lg-6               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.itfashion.com/moda/a-cada-decada-su-tendencia-asi-se-resume-un-siglo-de-moda/" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Página web It Fashion (Cardenas, 2017)]
+
                     
         .row.justify-content-center.align-items-center(titulo="1910-1920")
           .col-12
@@ -374,19 +348,7 @@
             p 
               span(style='color:#BF3976') Entrada la primera guerra mundial se producen cambios en los atuendos tanto femeninos como masculinos. 
               span(style='color:#00223D') Los hombres en su mayoría, voluntaria o involuntariamente se alistaron, por lo cual llevaban siempre uniforme. Por su parte el vestuario cotidiano femenino evidencia notables cambios debido a las restricciones de tejidos impuestas por la guerra, impulsando la recuperación de los vestidos estrechos y lánguidos (Lehnert, 2000; Pena, s.f.)
-            .row.justify-content-center.align-items-center
-              .col-lg-6             
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=ViNDmCX3DOw&feature=youtu.be" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video  Fashion History]. 1900-1920 (Hong, 2019)   
-              .col-lg-6               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=7IP5zAefiiQ&feature=youtu.be" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. 100 Years of French Fashion | Glamour – YouTube (Glamour, 2018)                                
+                              
 
         .row.justify-content-center.align-items-center(titulo="1920-1930")
           .col-12
@@ -396,27 +358,7 @@
             p Luego de la guerra, la felicidad y el desborde, 
               span(style='color:#BF3976') los años veinte traen consigo la democratización de la moda. 
               span(style='color:#00223D') Las nuevas tecnologías permitieron bajar los costos de la confección y el acceso a materiales textiles. El vestuario femenino es el reflejo del nacimiento de una nueva mujer, la cual ya tenía piernas para pasear y brazos para conducir automóviles. Mientas que el vestuario masculino no manifiesta mayores cambios que a nivel textil (Geringer et al., 2001; Lehnert, 2000).
-            .row.justify-content-center.align-items-center
-              .col-lg-6             
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=h8XQtzswhTU&feature=youtu.be" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. Los felices años 20 Documental – YouTube (JJlife’s, 2016)   
-
-              .col-lg-6             
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=r7OXmYZ0yC8&feature=youtu.be" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. Música década 1920-1930 – YouTube (Madrid, 2018)  
-
-              .col-lg-6            
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=5YdaEuxsHjo&feature=youtu.be" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. Las Flappers de 1920 – YouTube (Persefone Rest In Peace, 2018)                      
+                
 
         .row.justify-content-center.align-items-center(titulo="1930-1940")
           .col-12
@@ -430,14 +372,6 @@
               span(style='color:#00223D') que afecta a la sociedad en todos los aspectos; la moda no es la excepción, la economía hace que 
               span(style='color:#BF3976') las mujeres vuelvan a la costura casera
               span(style='color:#00223D') . Durante esta década el talle de las mujeres vuelve a su sitio (la cintura), reaparecen las mangas y se populariza el uso de pantalones (Cardenas, 2017; Geringer et al., 2001; Lehnert, 2000).
-
-            .row.justify-content-center.align-items-center
-              .col-lg-6             
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=9b8DdMHLzEU" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. 1930 Fashion Show – YouTube (CountDisco1, 2009)
 
         .row.justify-content-center.align-items-center(titulo="1940-1950")
           .col-12
@@ -456,14 +390,6 @@
               span(style='color:#BF3976') desarrollo de prendas de vestir austeras 
               span(style='color:#00223D') (Geringer et al., 2001; Lehnert, 2000).
 
-            .row.justify-content-center.align-items-center
-              .col-lg-6              
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.pinterest.es/aliciapalmira/moda-años-40/" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Imágenes]. Moda años 40 – Pinterest (Moda años 40, s.f.)
-
         .row.justify-content-center.align-items-center(titulo="1950-1960")
           .col-12
             img.img-t.img-a(src='@/assets/ilustraciones/img54.svg', alt='')
@@ -472,28 +398,6 @@
             p Una vez finalizada la guerra se respira un aire de confianza y tranquilidad, 
               span(style='color:#BF3976') la moda por primera vez en la historia ofrece un abanico de posibilidades para los diferentes tipos de personalidades, actividades y clases sociales
               span(style='color:#00223D') . El #[i New Look] de Cristian Dior se populariza entre las mujeres, luciendo nuevamente glamurosas y femeninas, de igual manera se utilizan todo tipo de pantalones y mezclas entre prendas de vestir de acuerdo a la ocasión de uso. La moda de los jóvenes es influenciada por los artistas de la pantalla grande, los hombres utilizan trajes más desestructurados y frescos (Cárdenas, 2017; Geringer et al., 2001; Lehnert, 2000).
-
-            .row.justify-content-center.align-items-center
-              .col-lg-6               
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/playlist?list=PLEE61EDB90F0AA88F" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. Canal de YouTube de Chanel (Chanel, s.f.)
-
-              .col-lg-6              
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=4LC5VbEJm6I" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. Coco Chanel vintage fashion shows – YouTube (Dyoniss99, 2010) 
-
-              .col-lg-6            
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)                                       
 
         .row.justify-content-center.align-items-center(titulo="1960-1970")
           .col-12
@@ -515,14 +419,7 @@
               span(style='color:#00223D') se encargó de vender en las personas la idea de ir a la luna, lo cual se reflejó en la 
               span(style='color:#BF3976') estética futurista 
               span(style='color:#00223D') del momento (Cardenas, 2017; Geringer et al., 2001; Laver, 2005; Lehnert, 2000)
-
-            .row.justify-content-center.align-items-center
-              .col-lg-6            
-                a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)               
+            
 
         .row.justify-content-center.align-items-center(titulo="1970-1980")
           .col-12
@@ -562,6 +459,242 @@
               span(style='color:#00223D') , las personas optan por seguir su propia individualidad, convirtiéndose en mezcladores (#[i DJ’s]), dejando a un lado las tendencias impuestas y luciendo una aparente naturalidad. La década de los 90 fue 
               span(style='color:#BF3976') conocida como la antimoda
               span(style='color:#00223D') . Las subculturas urbanas expresan las elecciones intimas y personales de los diferentes grupos de personas. Estas se interesan por su tiempo libre, su cuerpo y su bienestar, lo que es aprovechado por las empresas de cosmética, tinturas de cabello, #[i piercings] y productos de cuidado personal (FADU – UBA, 2020; Lehnert, 2000; #[i Moda siglo XX - Secretos de la moda], s.f.; Riello, 2012).
+
+    .header-arrow.text-white.mt-5
+      p.mb-0.text-center Para complementar sus conocimientos, lo invitamos a ver el siguiente material
+
+    .row.justify-content-center.align-items-center.mt-3
+      .col-lg-6             
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/channel/UCrKE6lsllHfJgcUexz3BBhA" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Evolución de las prendas que aparecen en el canal Glam (Glam Inc., s.f.)]
+
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/channel/UCB00OlcXYufo2QvmN9QtATA" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Evolución década tras década, canal de YouTube History of Fashion (Vintage2Versace, 2014)] 
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6               
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://sites.google.com/site/secretosdelamodaar/historia-de-la-moda/moda-siglo-xx#TOC-D-cadas-:-1900-1910" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Blog Secretos de moda (Moda siglo XX - Secretos de la moda, s.f.)]  
+      .col-lg-6               
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.itfashion.com/moda/a-cada-decada-su-tendencia-asi-se-resume-un-siglo-de-moda/" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Página web It Fashion (Cardenas, 2017)]  
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6             
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=ViNDmCX3DOw&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video  Fashion History]. 1900-1920 (Hong, 2019)   
+      .col-lg-6               
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=7IP5zAefiiQ&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. 100 Years of French Fashion | Glamour – YouTube (Glamour, 2018)
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6             
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=h8XQtzswhTU&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Los felices años 20 Documental – YouTube (JJlife’s, 2016)   
+
+      .col-lg-6             
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=r7OXmYZ0yC8&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Música década 1920-1930 – YouTube (Madrid, 2018)
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=5YdaEuxsHjo&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Las Flappers de 1920 – YouTube (Persefone Rest In Peace, 2018)
+      .col-lg-6             
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=9b8DdMHLzEU" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. 1930 Fashion Show – YouTube (CountDisco1, 2009)   
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6              
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.pinterest.es/aliciapalmira/moda-años-40/" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Imágenes]. Moda años 40 – Pinterest (Moda años 40, s.f.) 
+      .col-lg-6               
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/playlist?list=PLEE61EDB90F0AA88F" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Canal de YouTube de Chanel (Chanel, s.f.)
+    .row.justify-content-center.align-items-center            
+      .col-lg-6              
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=4LC5VbEJm6I" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Coco Chanel vintage fashion shows – YouTube (Dyoniss99, 2010)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Tyqg2XcoeJw" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. 1950's Fashion - The Designers – YouTube (Glamourdaze, 2010)
+
+    .row.justify-content-center.align-items-center                           
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=crFh-l2Tl_o&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Un paseo por la moda – YouTube (SentidoSensibilidad1, 2016)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=63Vxs02Qq6w&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Fashion House – YouTube (British Pathé, 2014)  
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=w2cbKANPQcw&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Women's fashions: year by year: 1949-1980 – YouTube (Wallygreeninker, 2009)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=w2cbKANPQcw&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p Canal de YouTube Wallygreeninker (Wallygreeninker, s.f.)                       
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=SB5eIfHXkWQ" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Mary Quant Shoe Fashion Show | London 1967 | Vintage Fashions – YouTube (Vintage Fashions, 2011)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=FOkfn6mk7dY&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p Dior Fashion Show 1960 – YouTube (Mycompasstv, 2017)                      
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=PM2UTIXdGH8&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Fashion 50's 60's 70's 80's 90's and today – YouTube (FabulousSims2, 2012)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=r7JIYEHZLhg&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Moda a través de los 60s, 70s, 80s y 90s – YouTube (Luisiana de mal, 2016) 
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=4MOVR1-LNIc" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Twiggy in a Fashion Show, 1960's – YouTube (MyFootage001, 2011)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=kHiCcv5g0n8&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Paco Rabanne Metal Dresses (1969 Original Footage) – YouTube (British Pathé, 2011)           
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=fL7SubBW4S0" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Fashion from 1969 - Paco Rabanne – YouTube (Lucifer Sam, 2013a)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=z_rsVHSXrY4&feature=youtu.be&list=RD" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Fashion from 1969 - Pierre Cardin – YouTube (Lucifer Sam, 2013b) 
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=sAh5emnRJ1M&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. 80S FASHION – YouTube (WHAT WHERE THEY THINKING???, 2014)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=YtZbuXCR2Gw" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Moda Anos 80 – YouTube (Aleatório comida e outras coisas, 2015a)  
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=XxsXi5_WZIU" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. 80s fashion – YouTube (Jensinsanity, 2011)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=atl9lIS7eUo" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. VWC Decades: 1990s Fashion & Music Trends – YouTube (Thevwchull, 2013) 
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=sjjGogV1tME&feature=youtu.be" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Cómo era la moda de los años 90s: ¿qué looks sobrevivieorn y se sigue usando? - YouTube(Estilocracia, 2019)
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=HE7PatQjKn4" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. 10 cosas de los años 90 que ojalá volvieran – YouTube (Haztelalista, 2016) 
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6            
+        a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=8hR02rBJ9Hs" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p #[b Video]. Moda Anos 90 – YouTube (Aleatório comida e outras coisas, 2015b)                                           
 
     Separador                             
       
@@ -741,16 +874,19 @@
 
             p.mt-5 Lo anterior le apunta a una 
               span(style='color:#BF3976') nueva idea de producto de moda: 
-              span(style='color:#00223D') atemporal, neutro, con una vida útil mayor, producido y comercializado a nivel local, hecho con fibras ecológicas (orgánicas, reutilizadas, recicladas), producidas bajo buenas prácticas de manufactura y consumidas solo cuando sean realmente requeridas (Calvo, 2016; Gwilt, 2014; Morgan, 2015; Salcedo, 2014). 
+              span(style='color:#00223D') atemporal, neutro, con una vida útil mayor, producido y comercializado a nivel local, hecho con fibras ecológicas (orgánicas, reutilizadas, recicladas), producidas bajo buenas prácticas de manufactura y consumidas solo cuando sean realmente requeridas (Calvo, 2016; Gwilt, 2014; Morgan, 2015; Salcedo, 2014).
 
-    .row.justify-content-center.align-items-stretch.mt-5
-      .col-lg-5       
+    .header-arrow.text-white.mt-5
+      p.mb-0.text-center Para complementar sus conocimientos, lo invitamos a ver el siguiente material               
+
+    .row.justify-content-center.align-items-stretch.mt-3
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=Nxojjjb-pqM" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. MUJER Y MODA EN EL SIGLO XXI – YouTube (Carchano, 2015)   
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="http://www.area-documental.com/player.php?titulo=The%20True%20Cost" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
@@ -758,39 +894,39 @@
             p #[b Película]. The True Cost (Morgan, 2015)
                   
     .row.justify-content-center.align-items-stretch.mt-4
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=w3zW24xEnNY" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Industria Textil y Moda 4.0 - Presentación Innovation Fashion Forum – YouTube (Farias, 2019a)   
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=zJg8k5-QJOw" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Innovación en la industria textil – YouTube (Fundación Pro Tejer, 2018)      
     .row.justify-content-center.align-items-stretch.mt-4
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=id9qip1mWZM" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Moda 4.0 para Dummies - Colombiamoda 2019- YouTube (Inexmoda & Bena, 2019)   
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/watch?v=K2cOViIZWD8" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Industria 4.0 "Cambiando esquemas y creando nuevas oportunidades" | Nasser Mohamed | TEDxUANL – YouTube (Mohamed & TEDx Talks, 2020)  
     .row.justify-content-center.align-items-stretch.mt-4
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="https://www.youtube.com/c/inexmoda/videos" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p #[b Video]. Canal de YouTube Inxmoda (Inexmoda, s.f.)   
-      .col-lg-5       
+      .col-lg-6       
         a.anexo.mb-4.mb-lg-0.mt-4.a-bg-1(href="http://bloshka.info/category/fashion/" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
