@@ -1004,7 +1004,7 @@ export default {
           'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
       },
       {
-        nombre: 'María Luisa Yépez',
+        nombre: 'Maria Luisa Yepes',
         cargo: 'Instructora',
         centro:
           'Centro de Formación en Diseño, Confección y Moda – Regional Antioquia',
@@ -1071,7 +1071,7 @@ export default {
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },

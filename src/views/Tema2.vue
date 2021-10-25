@@ -418,7 +418,7 @@
               span(style='color:#BF3976') los movimientos futuristas, la ciencia-ficción de la literatura y el cine 
               span(style='color:#00223D') se encargó de vender en las personas la idea de ir a la luna, lo cual se reflejó en la 
               span(style='color:#BF3976') estética futurista 
-              span(style='color:#00223D') del momento (Cardenas, 2017; Geringer et al., 2001; Laver, 2005; Lehnert, 2000)
+              span(style='color:#00223D') del momento (Cardenas, 2017; Geringer et al., 2001; Laver, 2005; Lehnert, 2000).
             
 
         .row.justify-content-center.align-items-center(titulo="1970-1980")
