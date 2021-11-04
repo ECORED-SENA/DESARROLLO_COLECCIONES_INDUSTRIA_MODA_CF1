@@ -151,7 +151,7 @@
 
     .row.justify-content-center.align-items-center.bg-color-6.mt-5.p-5(data-aos="fade-right")
       .col-lg-6
-        img.img-t.img-a(data-aos="fade-left")(src='@/assets/ilustraciones/img44.svg', alt='')
+        img.img-t.img-a.swing(data-aos="fade-left")(src='@/assets/ilustraciones/img44.svg', alt='')
       .col-lg-6
         a.anexo.mb-4.mb-lg-0.my-3.a-bg-1(data-aos="fade-down")(href="https://historiadeltraje.com/category/barroco/" target="_blank")
           .anexo__icono

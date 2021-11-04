@@ -413,7 +413,7 @@
 
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-down")
       .col-lg-10
-        img.img-a.img-t(data-aos="slide-left")(src='@/assets/ilustraciones/img20.png', alt='')
+        img.img-a.img-t.swing(data-aos="slide-left")(src='@/assets/ilustraciones/img20.png', alt='')
     p(data-aos="fade-down").mt-5
       span(style='color:#BF3976') El hombre durante 
       span(style='color:#00223D') toda su existencia siempre se ha caracterizado a 
@@ -474,7 +474,7 @@
                   .anexo__texto
                     p #[b Anexo 5]. Proporción y línea          
           .col-lg-5
-            img.img-a.img-t(src='@/assets/ilustraciones/img24.png', alt='')
+            img.img-a.img-t.yoyo(src='@/assets/ilustraciones/img24.png', alt='')
 
     Separador                             
       

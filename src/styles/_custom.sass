@@ -505,3 +505,32 @@ $dot-diameter: 28px
     transform: translatex(0px)
     transform: rotatey(15deg)      
 
+.tabs-b__tab__icon
+  animation-name: spin1
+  animation-duration: 6.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes spin1
+  0%
+    transform: translatey(0px)           
+
+  50%
+    transform: translatey(-6px)           
+
+  100%
+    transform: translatey(0px)   
+
+.swing
+  animation-name: swing
+  animation-duration: 4.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes swing
+  0%
+    transform: translatey(0px)    
+  50%
+    transform: translatey(-8px)
+  100%
+    transform: translatey(0px)
