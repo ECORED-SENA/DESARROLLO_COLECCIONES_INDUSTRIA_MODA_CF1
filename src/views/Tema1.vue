@@ -269,7 +269,7 @@
 
             p(data-aos="fade-down") Siempre debe estar presente la pregunta:
 
-            h4.mt-5.text-center.rosa ¿Se venderán mis creaciones?
+            h4.mt-5.text-center.rosa(data-aos="fade-down") ¿Se venderán mis creaciones?
 
     .row.justify-content-center.align-items-center.bg-color-2.pb-3  
 
@@ -336,10 +336,11 @@
 
     p(data-aos="fade-down") “Nunca he visto ventaja en no ir más allá del modo en que la prudencia convencional decreta que debe cortarse una chaqueta. Hace tiempo que comprendí la importancia de ser curioso. No hay que asustarse o esconderse detrás de ideas preconcebidas. Hay que experimentar. Hay que hacerlo y resulta hermoso porque se descubre en ello una energía que, a su vez, alimenta.
     p(data-aos="fade-down") No existen las reglas” John Galliano, de Colin McDowell, Weidenfeld & Nicolson, s.f., como se cita en Sorger et al, 2007, p. 26.
-
-    figure.mt-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/fCEbOYzN_II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+    .row.justify-content-center.align-items-center
+      .col-lg-12(data-aos="zoom-in-down")   
+        figure.mt-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/fCEbOYzN_II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
 
     Separador                             
       
@@ -378,20 +379,21 @@
               span(style='color:#BF3976') vestir el cuerpo es la esencia, sin olvidar los complementos que pasan a formar parte del engranaje 
               span(style='color:#00223D') como son:
             p(data-aos="fade-down") Los detalles, las proporciones, las líneas, la silueta, los colores, el tejido y las texturas.  El control que se hace de todos estos elementos, es fundamental al momento de desarrollar una colección.
-            h3.text-center.text-color.mt-5 ¡Dios se encuentra en los detalles!
+            h3.text-center.text-color.mt-5(data-aos="fade-down") ¡Dios se encuentra en los detalles!
 
           .col-lg-5
             img.img-a.img-t(data-aos="slide-left")(src='@/assets/ilustraciones/img19.png', alt='')
-
-        figure.mt-5
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/_NoaHQFC2rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        .row.justify-content-center.align-items-center
+          .col-lg-12(data-aos="zoom-in-down")   
+            figure.mt-5
+              .video
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/_NoaHQFC2rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-down")
           .col-lg-8.p-4
             .row.justify-content-center.align-items-center(data-aos="fade-down")
               .col-lg-6
                 p.mb-0.p-2 Torales, E. y Meyer, M. (s.f.). Elementos y principios del diseño: Diseño de Indumentaria Urbana I.    
-              .col-lg-6
+              .col-lg-6(data-aos="fade-down")
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_5_Diccionario_de_la_moda.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
@@ -429,7 +431,7 @@
             p.mt-5 En la silueta, se da la primera búsqueda del equilibrio de la estética en la transformación visual del cuerpo, se pretende proyectar un dinamismo en su composición, generar sensaciones determinadas por el uso de materiales, aplicación de volumen, estrechez, texturas, color y en general todo aquello que visualmente hace que las personas se vean diferentes. La adición de ornamentos y accesorios crea la transformación de lo básico, mostrando una distorsión deseada del cuerpo.
             p En el siguiente documento podremos profundizar al respecto.
             .row.justify-content-center.align-items-center.mt-5
-              .col-lg-8        
+              .col-lg-8(data-aos="fade-down")        
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_6_Cuerpos_ideales.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
@@ -465,7 +467,7 @@
 
             p(data-aos="fade-down") Revise el siguiente contenido para ampliar la información.
             .row.justify-content-center.align-items-center.mt-5
-              .col-lg-8           
+              .col-lg-8(data-aos="fade-down")           
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_7_Proporcion_y_linea.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
@@ -503,7 +505,7 @@
         .row.justify-content-center.align-items-center(data-aos="flip-down")       
           .col-lg-6.my-3
             .row.justify-content-center.align-items-center
-              .col-lg-10           
+              .col-lg-10(data-aos="fade-down")           
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_8_Tejido_color_y_textura.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
@@ -511,7 +513,7 @@
                     p #[b Material complementario.] Tejido, color y textura   
           .col-lg-6.my-3
             .row.justify-content-center.align-items-center
-              .col-lg-10           
+              .col-lg-10(data-aos="fade-down")           
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_9_Desarrollo_Concepto_Moda_Color_Santiago_Gomez.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
@@ -534,7 +536,7 @@
 
         p(data-aos="fade-down") En el momento de seleccionar un tejido es esencial tener en cuenta los beneficios que se ven reflejados en la apariencia, sensación, color y textura, así los tejidos pueden ser intervenidos de formas distintas, se pueden teñir, bordar y transformar su estructura para aprovechar todas las posibilidades que ofrecen las telas en el desarrollo de colecciones. 
         
-      .col-lg-7.bg-img-12(data-aos="fade-left")
+      .col-lg-7.bg-img-12(data-aos="slide-left")
 
     .row.justify-content-center.align-items-stretch(data-aos="fade-left")
       .col-lg-12.card-color-2.p-5
@@ -545,7 +547,7 @@
             p(data-aos="fade-down") Revise el documento para profundizar conocer más sobre tejidos y texturas.            
           .col-lg-4(data-aos="fade-down") 
             .row.justify-content-center.align-items-center
-              .col-lg-11
+              .col-lg-11(data-aos="fade-down")
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_10_El_tejido.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")
@@ -572,7 +574,7 @@
 
         p(data-aos="fade-down") A continuación, se puede observar una idea desarrollada:   
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-8 
+      .col-lg-8
         SlyderA
           .row.justify-content-center.align-items-center.p-5
             .col-lg-11.img-bg-1.p-4
@@ -608,11 +610,11 @@
       .col-12.bg-img-8.p-5
         .row.justify-content-center.align-items-center      
           .col-lg-4.my-3
-            p Desarrollo de Concepto de Moda y Color por Patricia Baldovino.
+            p(data-aos="fade-down") Desarrollo de Concepto de Moda y Color por Patricia Baldovino.
             .row.justify-content-center.align-items-center(data-aos="flip-down")       
           .col-lg-5.my-3
             .row.justify-content-center.align-items-center
-              .col-lg-11          
+              .col-lg-11(data-aos="fade-down")          
                 a.anexo.a-bg-1(:href="obtenerLink('/downloads/Anexo_D_Desarrollo_de_Concepto_de_Moda_y_Color_por_Patricia_Baldovino.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-pdf.svg")

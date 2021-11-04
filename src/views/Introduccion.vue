@@ -9,9 +9,11 @@
           i.fas.fa-info
       h1 Introducción
     
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/jzPKYbxIwxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center.align-items-center
+      .col-lg-12(data-aos="zoom-in-down")    
+        figure.mb-5
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/jzPKYbxIwxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p(data-aos="fade-down") La moda influye directamente en el comportamiento, actitud, gustos y preferencias de las personas y puede determinar las características diferenciales del individuo en la sociedad; de allí la importancia que el aprendiz se fundamente con las herramientas necesarias para investigar, conocer, participar y desarrollar propuestas utilizando los medios, desarrollando la capacidad de representar nuevas ideas, teniendo presente que “el cuerpo vestido es su principio y su fin”.
 

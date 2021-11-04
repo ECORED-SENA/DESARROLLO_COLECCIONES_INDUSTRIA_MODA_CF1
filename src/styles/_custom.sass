@@ -488,3 +488,20 @@ $dot-diameter: 28px
   bottom: -18px
   margin-top: 0px 
   z-index: 20      
+
+.yoyo
+  animation-name: yoyo
+  animation-duration: 7.0s
+  animation-iteration-count: infinite
+  -o-animation-direction: alternate
+
+@keyframes yoyo
+  0%
+    transform: translatex(0px)
+    transform: rotatey(-15deg)    
+  50%
+    transform: translatex(-15px)
+  100%
+    transform: translatex(0px)
+    transform: rotatey(15deg)      
+
