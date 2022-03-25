@@ -186,18 +186,16 @@ export default {
       link: 'http://comunicacioneducativamaster.blogspot.com/',
     },
     {
-      referencia:
-        'Aleatório comida e outras coisas. (2015a). Moda Años 80 [video]. YouTube. ',
+      referencia: 'Elisangela. (2015a). Moda Años 80 [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=YtZbuXCR2Gw',
     },
     {
-      referencia:
-        'Aleatório comida e outras coisas. (2015b). Moda Anos 90 [video]. YouTube. ',
+      referencia: 'Elisangela. (2015b). Moda Anos 90 [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=8hR02rBJ9Hs',
     },
     {
       referencia:
-        'Allante, P. (2007). Historia de la moda Cap 3 Pelucas y encajes [video]. YouTube. ',
+        'Jorge Herre. (2007). Historia de la moda Cap 3 Pelucas y encajes [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=hv_TOh-YyYs&feature=youtu.be',
     },
     {
@@ -312,12 +310,6 @@ export default {
       link: 'https://www.youtube.com/watch?v=zJg8k5-QJOw',
     },
     {
-      referencia:
-        'Geringer, S., Nieves, M. M. J. de, & Soto, Á. L. (2001). La moda: color, estilo y diseño (3a. ed.). McGraw-Hill Interamericana. ',
-      link:
-        'http://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3195044',
-    },
-    {
       referencia: 'Glam Inc. (s.f.). Glam, Inc. [video]. YouTube. ',
       link: 'https://www.youtube.com/channel/UCrKE6lsllHfJgcUexz3BBhA',
     },
@@ -381,12 +373,6 @@ export default {
     },
     {
       referencia:
-        'Laver, J. (2005). Libro Breve Historia del Traje y la Moda (9th ed.). Cátedra Ediciones. ',
-      link:
-        'https://www.buscalibre.com.co/libro-breve-historia-del-traje-y-la-moda/9788437607320/p/978957',
-    },
-    {
-      referencia:
         'Lehnert, G. (2000). Historia de la moda del siglo XX. Könemann.',
     },
     {
@@ -447,12 +433,12 @@ export default {
     },
     {
       referencia:
-        'Museo Vasco de Bilbao. (2018). Museo Vasco de Bilbao acoge una muestra de ropa del siglo XVIII -  [video]. YouTube. ',
+        'Europa Press. (2018). Museo Vasco de Bilbao acoge una muestra de ropa del siglo XVIII -  [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=njZOrgpd8yg&feature=youtu.be',
     },
     {
       referencia:
-        'Mycompasstv. (2017). Dior Fashion Show 1960 - [video]. YouTube. ',
+        'King Rose Archives. (2014). Dior Fashion Show 1960 - [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=FOkfn6mk7dY&feature=youtu.be',
     },
     {
@@ -478,7 +464,7 @@ export default {
     },
     {
       referencia:
-        'Phillippe Allante. (2007). Historia de la moda Cap 1 La elegancia romana [video]. YouTube. ',
+        'Jorge Herre. (2007). Historia de la moda Cap 1 La elegancia romana [video]. YouTube. ',
       link: 'https://www.youtube.com/watch?v=k1VTlq7B8RQ&feature=youtu.be',
     },
     {
@@ -785,7 +771,7 @@ export default {
     {
       termino: 'Lujo',
       significado:
-        '1. m. Abundancia en el adorno o en comodidades y objetos suntuosos. Vivía rodeada de lujo. 2. m. Abundancia de cosas o de medios. Dispone de todo lujo DE recursos para el proyecto. 3. m. Aquello que supera los medios normales de alguien para conseguirlo. Para ellos es un lujo poder ir de vacaciones. 4. m. Elevada categoría, excelencia o exquisitez que posee algo por la calidad de las materias primas empleadas en su fabricación, sus altas prestaciones o servicios, etc. Destacaban el lujo y el refinamiento de la decoración. Coche, zapatos, edición de lujo. 5. m. Persona o cosa valiosa, excepcional o extraordinaria. El profesor de arte es un lujo. Ha sido un lujo viajar con ustedes (Real Academia Española, s.f.).',
+        '1. m. Abundancia en el adorno o en comodidades y objetos suntuosos. Vivía rodeada de lujo. 2. m. Abundancia de cosas o de medios. Dispone de todo lujo de recursos para el proyecto. 3. m. Aquello que supera los medios normales de alguien para conseguirlo. Para ellos es un lujo poder ir de vacaciones. 4. m. Elevada categoría, excelencia o exquisitez que posee algo por la calidad de las materias primas empleadas en su fabricación, sus altas prestaciones o servicios, etc. Destacaban el lujo y el refinamiento de la decoración. Coche, zapatos, edición de lujo. 5. m. Persona o cosa valiosa, excepcional o extraordinaria. El profesor de arte es un lujo. Ha sido un lujo viajar con ustedes (Real Academia Española, s.f.).',
     },
     {
       termino: 'Malla',
@@ -940,8 +926,7 @@ export default {
     {
       texto: 'Desconocido. (s.f.). Décadas 40s, 50s, 60s.',
       tipo: 'Imagen tomada de Pinterest',
-      link:
-        'https://fido.palermo.edu/servicios_dyc/proyectograduacion/archivos/631.pdf',
+      descarga: '/downloads/Decadas_40s_50s_60s.pdf',
     },
     {
       texto:
@@ -953,7 +938,7 @@ export default {
     {
       texto: 'Inexmoda. (2002). Glosario de moda.',
       tipo: 'PDF',
-      descarga: '/downloads/prueba.pdf',
+      descarga: '/downloads/GLOSARIO_DE_MODA_Inexmoda.pdf',
     },
     {
       texto: 'Museo del traje. (2018). Trajes españoles del siglo XVIII. ',
@@ -965,14 +950,8 @@ export default {
       texto:
         'Riello, G. (2012). Breve historia de la moda: desde la Edad Media hasta la actualidad. Editorial Gustavo Gili.',
       tipo: 'PDF',
-      link:
-        'http://museodetrajes.com.co/wp-content/uploads/2018/11/Trajes-espa%C3%B1oles-del-siglo-XVIII.pdf.',
-    },
-    {
-      texto: 'Tevisto.com (2017). Diccionario de la moda.',
-      tipo: 'PDF',
-      link:
-        'https://www.tevisto.com/blog/wp-content/uploads/2017/10/diccionario-de-la-moda.pdf',
+      descarga:
+        '/downloads/Breve_historia_de_la_Moda_Desde_la_Edad_Media_hasta_la_actualidad.pdf',
     },
     {
       texto:

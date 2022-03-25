@@ -441,13 +441,13 @@
           .col-8.mt-4
             p Años 80’s (1980-1990)
             p 
-              span(style='color:#BF3976') La caída de muro de Berlín
+              span(style='color:#BF3976') La caída del muro de Berlín
               span(style='color:#00223D') , en la década de los 80, es el inicio de la expansión de las fronteras y de un mundo globalizado. Se ve a 
               span(style='color:#BF3976') la mujer 
               span(style='color:#00223D') por primera vez 
               span(style='color:#BF3976') ocupando roles que anteriormente solo se le permitían al hombre
               span(style='color:#00223D') , tales como una carrera profesional o en el mercado laboral, lo que se refleja en el #[i power dressing] (vestido para el poder) un nuevo código de vestuario que deja ver esta nueva posición femenina, por medio de una línea exagerada de hombros grandes y pronunciados, tacones altos y exuberancia en los accesorios. 
-              span(style='color:#BF3976') Es el tiempo de la producción en masa, el cuerpo prefecto, el tiempo libre, las culturas ancestrales y diseños orientales 
+              span(style='color:#BF3976') Es el tiempo de la producción en masa, el cuerpo perfecto, el tiempo libre, las culturas ancestrales y diseños orientales 
               span(style='color:#00223D') (Acosta, 2012; Cardenas, 2017; FADU – UBA, 2020; Lehnert, 2000).
 
 
@@ -660,7 +660,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Video]. Moda Anos 80 – YouTube (Aleatório comida e outras coisas, 2015a)  
+            p #[b Video]. Moda Anos 80 – YouTube (Elisangela, 2015a)  
 
     .row.justify-content-center.align-items-center
       .col-lg-6(data-aos="fade-down")            
@@ -696,7 +696,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Video]. Moda Anos 90 – YouTube (Aleatório comida e outras coisas, 2015b)                                           
+            p #[b Video]. Moda Anos 90 – YouTube (Elisangela, 2015b)                                           
 
     Separador                             
       

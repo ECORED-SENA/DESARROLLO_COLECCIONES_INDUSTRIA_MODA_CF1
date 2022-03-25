@@ -324,7 +324,7 @@
           span(style='color:#BF3976') generar ideas 
           span(style='color:#00223D') como número de personas, cada una puede organizar su proceso de acuerdo al nivel educativo que tenga, a la sociedad en la que se desarrolla y al medio en que se mueve; 
           span(style='color:#BF3976') las herramientas son utilizadas también de forma particular y todas son válidas 
-          span(style='color:#00223D') siempre y cuando se tengan claros los resultados de búsqueda, por lo tanto se pueden sugerir: fotocopias y muestras de tejidos (pared), Block de dibujos (imágenes, tejidos y adornos), Mood-board, Story Board o Panel temático y lluvia de ideas. 
+          span(style='color:#00223D') siempre y cuando se tengan claros los resultados de búsqueda, por lo tanto se pueden sugerir: fotocopias y muestras de tejidos (pared), Block de dibujos (imágenes, tejidos y adornos), #[i Mood-board, Story Board] o Panel temático y lluvia de ideas. 
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.bg-img-5-1.p-4
@@ -362,7 +362,7 @@
         p(data-aos="fade-down")
           span(style='color:#00223D') En el momento de comenzar el 
           span(style='color:#BF3976') proceso de desarrollo creativo
-          span(style='color:#00223D') , es bien importante tener a la mano las herramientas necesarias, que permitan
+          span(style='color:#00223D') , es bien importante tener a la mano las herramientas necesarias, que permitan 
           span(style='color:#BF3976') explorar todas las posibilidades 
           span(style='color:#00223D') que se puedan ocurrir para 
           span(style='color:#BF3976') plasmar ideas en las prendas 
@@ -425,7 +425,7 @@
     .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-right")
       .col-lg-6.bg-img-6.py-5.px-0
         .row.justify-content-center.align-items-center.p-5(data-aos="fade-right")
-          .col-lg-12
+          .col-lg-12.px-5
             h4.text-color.text-center.mt-3 El cuerpo en cada individuo por naturaleza siempre dará como resultado una silueta diferente, que a su vez puede ser transformada por todo lo que allí se pueda portar.
             .hr.mt-3
             p.mt-5 En la silueta, se da la primera búsqueda del equilibrio de la estética en la transformación visual del cuerpo, se pretende proyectar un dinamismo en su composición, generar sensaciones determinadas por el uso de materiales, aplicación de volumen, estrechez, texturas, color y en general todo aquello que visualmente hace que las personas se vean diferentes. La adición de ornamentos y accesorios crea la transformación de lo básico, mostrando una distorsión deseada del cuerpo.
@@ -451,9 +451,9 @@
           span(style='color:#00223D') ; dependiendo de cómo esté dispuesta la silueta, se estiliza, engrosa o cambia de aspecto. 
 
         p(data-aos="fade-down") Cuando se 
-          span(style='color:#BF3976') utilizan líneas
+          span(style='color:#BF3976') utilizan líneas 
           span(style='color:#00223D') horizontales, verticales, anguladas, curvas, inclinadas de manera independiente o combinada con otros elementos (textura, color, tamaño, forma), se generan 
-          span(style='color:#BF3976') ilusiones ópticas
+          span(style='color:#BF3976') ilusiones ópticas 
           span(style='color:#00223D') intencionales que aplicadas al vestuario hacen ver diferente el cuerpo.
 
       .col-lg-5
